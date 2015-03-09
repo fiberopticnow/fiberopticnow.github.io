@@ -1,40 +1,52 @@
 ---
 layout: post
 title: "Get Your Code On Podcast with Dr. Will"
-image: /media/code.jpg
+image: /media/css_code.jpg
 dark: true
 video: false
+
+
 ---
 
-<em> I feel so honored to have been invited to join <a href="http://www.twitter.com/iamdrwill">Dr. Will Deyamport III's</a> educational podcast series to discuss the learning to code revolution in education, as well as how to ensure that all students have access to the high-paid tech careers of the future. Below are links to the Slideshare, as well as the recording of the podcast in case you missed the original airing.</em>
+<em> I was invited to join Dr. Will Deyamport III's educational podcast series to discuss the learning to code revolution in education, as well as how to ensure that all students have access to the high-paid tech careers of the future. Check out the Slideshare to learn more and watch the recording on Youtube in case you missed the podcast's original airing.
+
+TEST
+
+TEST
+
+TEST
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/45548917" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KatieWilliams17/get-your-code-on-empowering-all-students-through-computer-science-in-the-classroom" title="Get Your Code On: Empowering All Students Through Computer Science in the Classroom" target="_blank">Get Your Code On: Empowering All Students Through Computer Science in the Classroom</a> </strong> from <strong><a href="//www.slideshare.net/KatieWilliams17" target="_blank">Katie Williams</a></strong> </div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Ltky5wDK_s" frameborder="0" allowfullscreen></iframe>
 
+</em>
 
 
+## Computer programming skills can afford students the opportunity to access the highest paid jobs of the future
 
-## Understanding the current diversity problem in tech startups is a call to action for educators
+Educators have the unique opportunity to positively shift the future outcomes for their students. Of course all teachers want for all of their students to have meaningful, exciting, and lucrative careers in the future. The computer programming field represents an incredible market for future jobs. Why not expose your students to computer programming at a young age to ensure that they get the skills they need to meet this future demand.
 
-I've had the amazing opportunity to work both in the startup field, as well as in the classroom. For the past three years I have worked with educational startups, as well as a number of international startups doing freelance marketing. For me, I noticed the diversity gap in the tech sector almost immediately. Although many tech companies and startups are actively working to increase the number of women and people of color in their organizations, we still have a long way to go..
+{% include image.html url="/media/jobopp.png" width="100%" description=" <a href='http://code.org/'>Code.org</a>" %}
 
----number of future jobs in tech from <a href="http://www.code.org">Code.org</a>
+As you can see, there are far more jobs in computer programming than there are computer programmers. It's up to us as educators to increase this pipeline.
 
-----number of women graduating with computer science degrees from <a href="http://www.code.org">Code.org</a>
+{% include image.html url="/media/jobgap.png" width="100%" description=" <a href='http://code.org/'>Code.org</a>" %}
 
----diversity data from top tech startups from <a href="http://www.code.org">Code.org</a>
+###
 
----include Code.org infographics
-{% include image.html url="/media/codeweekposter.jpg" width="100%" description="Poster for EU Code Week by the amazing <a href='http://www.twitter.com/byWFG'>Wouter Goedkoop</a>" %}
+However, when we look at the data of the job growth for computer science, we must also look at the data of the current demographics of the tech sector. It is important to note that many tech companies are severely lacking in diversity.
+{% include image.html url="/media/diversityimage.png" width="100%" description=" <a href='https://gigaom.com/2014/08/21/eight-charts-that-put-tech-companies-diversity-stats-into-perspective/'>Gigaom</a>" %}
 
-##Empower your students to try computer programming
+Additionally, women are also underrepresented in the sector, as the following graphs illustrate.
 
-Understanding the above diversity data in the tech sector is incredibly important for educators. This data clearly shows us that many women and people of color do not have equal access to careers in the tech sector.
+{% include image.html url="/media/womencs.png" width="100%" description=" <a href='http://www.code.org'>Code.org</a>" %}
 
-Speakers included <a href="http://www.twitter.com/jruis">Jorg Ruis</a>
 
-###Resources for learning and/or teaching computer programming to children or adults
+###Using this data to empower your teaching practice and your students
 
-Check out the <a href="http://learn-computer-programming.zeef.com"> ultimate coding link directory </a> I created, which offers a curated list of coding resources from apps to in-person events. If you know of any awesome resources that I may have missed, please suggest them so that I can add them to the directory. Thank you so much!
+Although many tech companies and startups are actively working to increase the number of women and people of color in their organizations, they still have a long way to go. But, as educators, it is our job to ensure that all of our students feel equally empowered with technology. If you see a student on their mobile phone, don't immediately shame the student. Rather, this is a great opportunity for you to say, "You are always on that iPhone. I can really see that you love technology. Do you know how your favorite apps are made? You know that we can't text during class, but after class I'd love to show you some apps to learn coding. You would be so great at creating your own apps!"
+
+Feel free to take a look at my <a href="http://learn-computer-programming.zeef.com">learning computer programming link directory</a> that catalogues various resources for kids and adults to learn to code. This is a great resource to share with students, parents and teachers.
