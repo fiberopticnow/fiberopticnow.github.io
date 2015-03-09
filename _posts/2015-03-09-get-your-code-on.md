@@ -46,9 +46,9 @@ Although many tech companies and startups are actively working to increase the n
 
 <div class="message">"You are always on that iPhone. I can really see that you love technology. Do you know how your favorite apps are made? You know that we can't text during class, but after class I'd love to show you some apps to learn coding. You would be so great at creating your own apps!"</div>
 
-## You don't need to be able to code to integrate coding into your curriculum
+### You don't need to be able to code to integrate coding into your curriculum
 
-I often hear from teachers that they're apprehensive to teach coding in their classes because they're not professional computer programmers, or perhaps cannot even write a single line of code. However, there are tons of great tools that you can use to integrate coding into your curriculum such as <a href="http://scratch.mit.edu">Scratch by MIT Labs</a>, which has a Help Center, dozens of easy-to-follow tutorial videos, and even coding flashcards that you can easily print and share with your students. With Scratch, students can seriously self-direct their own learning.<br>
+I often hear from teachers that they're apprehensive to teach coding in their classes because they're not professional computer programmers, or perhaps cannot even write a single line of code. However, there are tons of great tools that you can use to integrate coding into your curriculum such as <a href="http://scratch.mit.edu">Scratch by MIT Labs</a>, which has a Help Center, dozens of easy-to-follow tutorial videos, and even coding flashcards that you can easily print and share with your students. With Scratch, students can seriously self-direct their own learning.
 
 I used Dr. Sugata Mitra's incredible TED Talk "School in the Cloud" to motivate my 6th grade students to teach themselves to learn Scratch. I told them, "If kids from impoverished conditions in India can teach themselves to use a computer with no instruction from a teacher, you can definitely teach yourselves to code using all of Scratch's amazing resources online." Check out Dr. Mitra's talk below.
 
