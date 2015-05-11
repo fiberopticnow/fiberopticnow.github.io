@@ -66,7 +66,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <br>
 
-<img src="/media/rainbow.png" width="40%" style="float:left" />
+<img src="/media/rainbow.gif" width="40%" style="float:left" />
 
 {% include image.html url="/media/magic.gif" width="40%" description="Llama sticker pack by Yoo Jin" %}
 
