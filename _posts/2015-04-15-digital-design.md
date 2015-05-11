@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Design Class: 8th Graders Create Animated Sticker Packs for Facebook Messenger"
-image: /media/emoji2.jpg
+image: /media/FBsticker.jpg
 dark: true
 video: false
 
