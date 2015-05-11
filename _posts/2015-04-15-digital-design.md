@@ -60,15 +60,6 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <br>
 
-
-<img src="/media/eyebrows.gif" width="33%" style="float:left" />
-
-<img src="/media/mad.gif" width="33%" style="float:left" />
-
-{% include image.html url="/media/fire.gif" width="33%" description="Turtle sticker pack by Seo Hyun" %}
-
-<br>
-
 <img src="/media/flowerdog.png" width="40%" style="float:left" />
 
 {% include image.html url="/media/margot.gif" width="40%" description="Animated GIF Design Project sticker pack by Margot" %}
@@ -78,6 +69,14 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 <img src="/media/rainbow.gif" width="40%" style="float:left" />
 
 {% include image.html url="/media/magic.gif" width="40%" description="Llama sticker pack by Yoo Jin" %}
+
+<br>
+
+<img src="/media/eyebrows.gif" width="33%" style="float:left" />
+
+<img src="/media/mad.gif" width="33%" style="float:left" />
+
+{% include image.html url="/media/fire.gif" width="33%" description="Turtle sticker pack by Seo Hyun" %}
 
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
