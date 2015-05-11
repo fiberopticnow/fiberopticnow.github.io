@@ -54,13 +54,13 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src-"/media/Surfboard.gif" width="30%" />
 
-{% include image.html url="/media/luca.gif" width="100%" description="Animated GIF Design Project sticker by Luca" %}
+{% include image.html url="/media/luca.gif" width="30%" description="Animated GIF Design Project sticker by Luca" %}
 
-{% include image.html url="/media/alex.gif" width="100%" description="Animated GIF Design Project sticker by Anonymous" %}
+{% include image.html url="/media/alex.gif" width="30%" description="Animated GIF Design Project sticker by Anonymous" %}
 
-{% include image.html url="/media/margot.gif" width="100%" description="Animated GIF Design Project sticker by Margot" %}
+{% include image.html url="/media/margot.gif" width="30%" description="Animated GIF Design Project sticker by Margot" %}
 
-{% include image.html url="/media/achille.gif" width="100%" description="Animated GIF Design Project sticker by Achille" %}
+{% include image.html url="/media/achille.gif" width="30%" description="Animated GIF Design Project sticker by Achille" %}
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
 
@@ -69,10 +69,4 @@ Some students even chose to create mockups showing how their sticker packs would
 
 ## Evaluation
 
-Students sought out expert appraisals from teachers,
-
-
-
-## Examples of student work
-
-seohyunmockup.gif
+Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
