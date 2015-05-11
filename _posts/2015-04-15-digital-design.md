@@ -106,7 +106,7 @@ Some students even chose to create mockups showing how their sticker packs would
 
 ## Evaluation
 
-Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. One expert was so enthused that he tweeted out Victorine's emoticon to his followers on Twitter.
+Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. One expert, the International School of Amsterdam's IT Director, Warren Apel, was so enthused that he tweeted out Victorine's emoticon to his followers on Twitter.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">No Way! Students in <a href="https://twitter.com/fiberopticnow">@fiberopticnow</a> Katie&#39;s grade 8 Design class made some AMAZING animated GIFs! <a href="http://t.co/JQjsNox9P1">pic.twitter.com/JQjsNox9P1</a></p>&mdash; Warren Apel (@warrena) <a href="https://twitter.com/warrena/status/581118464640880640">March 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
