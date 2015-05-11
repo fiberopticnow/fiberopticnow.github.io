@@ -83,6 +83,8 @@ Some students even chose to create mockups showing how their sticker packs would
 
 {% include image.html url="/media/seohyunmockup.gif" width="100%" description="An animated mockup by Seo Hyun" %}
 
+{% include image.html url="/media/mockup2.gif" width="100%" description="Another animated mockup by Seo Hyun" %}
+
 
 ## Evaluation
 
