@@ -8,7 +8,7 @@ video: false
 
 ---
 
-<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP Digital Design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user in another section of the course. I'm so proud of my students and happy to share my design tech unit on animated sticker packs, as well as student examples below.
+<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP digital design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user in another section of the course. I'm so proud of my students and happy to share my design tech unit on animated sticker packs, as well as student examples below.
 </em>
 
 
