@@ -9,7 +9,7 @@ title: Fiber Optic What?
 
 ###The Author
 
-{% include image.html url="/media/katie.gif" width="70%" description="Creating animated GIFs is a great outlet for creative energies" %}
+{% include image.html url="/media/katie.gif" width="50%" description="Creating animated GIFs is a great outlet for creative energies" %}
 
 
 Katie is an American-born dreamer with a passion for technology, education, and travel. Her expertise lies in digital marketing strategy, design thinking, and digital education. Katie currently works as a digital design teacher at the International School of Amsterdam, while also freelancing as a marketing consultant and copywriter, as she also cultivates her pet-project [Coding & Cocktails](http://www.codingandcocktails.nl).
