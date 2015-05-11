@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Design Class: 8th Graders Create Animated Sticker Packs for Facebook Messenger"
+title: "Digital Design Class: Students Create Animated Sticker Packs for Facebook Messenger"
 image: /media/FBsticker.jpg
 dark: true
 video: false
@@ -86,7 +86,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/rainbow.gif" width="40%" style="float:left" />
 
-{% include image.html url="/media/magic.gif" width="40%" description="Llama sticker pack by Yoo Jin" %}
+{% include image.html url="/media/magic.gif" width="40%" description="Some examples from the Llama sticker pack by Yoo Jin" %}
 
 <br>
 
@@ -94,7 +94,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/mad.gif" width="33%" style="float:left" />
 
-{% include image.html url="/media/fire.gif" width="33%" description="Turtle sticker pack by Seo Hyun" %}
+{% include image.html url="/media/fire.gif" width="33%" description="Some examples from the Turtle sticker pack by Seo Hyun" %}
 
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
