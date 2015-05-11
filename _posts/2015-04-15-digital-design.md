@@ -23,7 +23,7 @@ For this design tech unit plan, I prompted students to think about how communica
 The IB Design Tech program utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
 
 
-{% include image.html url="/media/designcycle.gif" width="100%" description="The IB MYP Design Cycle" %}
+{% include image.html url="/media/designcycle.gif" width="100%" description="The IB MYP Design Cycle by <a href="https://plus.google.com/u/1/+JacGubbels/posts">Jac Gubbels</a> %}
 
 ## Researching the topic
 
