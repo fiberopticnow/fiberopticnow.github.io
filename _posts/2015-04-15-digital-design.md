@@ -48,13 +48,13 @@ In the following image you can see the evolution of Kanna's sketches into digita
 Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions. Below I have highlighted some student work which represents a couple of the stickers out of their pack.
 
 
-<img src="/media/melina.gif" width="40%" style="float:left" />
+<img src="/media/melina.gif" width="45%" style="float:left" />
 
 {% include image.html url="/media/Car.gif" width="55%" description="Some examples from the Roger the Shark sticker pack by Melina" %}
 
 <br>
 
-<img src="/media/fabulous.gif" width="45%" style="float:left" />
+<img src="/media/fabulous.gif" width="50%" style="float:left" />
 
 {% include image.html url="/media/luca.gif" width="50%" description="Some examples from the Goldfish sticker pack by Luca" %}
 
