@@ -56,7 +56,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/fabulous.gif" width="45%" style="float:left" />
 
-{% include image.html url="/media/luca.gif" width="45%" description="Some examples from the Goldfish sticker pack by Luca" %}
+{% include image.html url="/media/luca.gif" width="50%" description="Some examples from the Goldfish sticker pack by Luca" %}
 
 <br>
 
