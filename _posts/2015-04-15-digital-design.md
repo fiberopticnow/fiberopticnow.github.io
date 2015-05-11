@@ -47,14 +47,17 @@ In the following image you can see the evolution of Kanna's sketches into digita
 
 In order to learn how to make animated GIFs using software like Photoshop and GIMP, students delved into online tutorials and videos to teach themselves these new skills. My students were self-directed learners in this unit and truly taught themselves this new animation skill with online articles and tutorials. Some students even chose to create their own tutorials to show others how to use the software to create animated GIFs.
 
-Here's a tutorial by Chris on creating animated GIFs using Photoshop CS6.
+In this tutorial by Chris you'll learn how to create animated GIFs using Photoshop CS6.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XxpozP6V14A" frameborder="0" allowfullscreen></iframe>
 
-Here's a tutorial by Jason on creating animated GIFs using GIMP.
+Jason walks you through how to use the free and open source Photoshop alternative, GIMP, in the following tutorial video.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efTOBSKmXcw" frameborder="0" allowfullscreen></iframe>
 
-Here's a tutorial by Neha on creating animated GIFs using the web-based GIF generator, Picasion.
+Finally, here's a tutorial by Neha on creating animated GIFs using the web-based GIF generator, Picasion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgQBzXyNyp0" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -77,7 +80,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/flowerdog.png" width="40%" style="float:left" />
 
-{% include image.html url="/media/margot.gif" width="40%" description="Some examples from the Rock Dog sticker pack by Margot" %}
+{% include image.html url="/media/margot.gif" width="40%" description="Some examples from the Maddie the Dog sticker pack by Margot" %}
 
 <br>
 
