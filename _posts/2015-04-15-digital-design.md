@@ -23,7 +23,7 @@ For this design tech unit plan, I prompted students to think about how communica
 The IB Design Tech program utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
 
 
-{% include image.html url="/media/designcycle.gif" width="70%" description="The IB MYP Design Cycle by Jac Gubbels" %}
+{% include image.html url="/media/designcycle.gif" width="70%" description="My animated hack of the IB MYP Design Cycle graphics by Jac Gubbels" %}
 
 ## Researching the topic
 
@@ -48,13 +48,13 @@ In the following image you can see the evolution of Kanna's sketches into digita
 Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions. Below I have highlighted some student work which represents a couple of the stickers out of their pack.
 
 
-<img src="/media/melina.gif" width="35%" style="float:left" />
+<img src="/media/melina.gif" width="30%" style="float:left" />
 
 {% include image.html url="/media/Car.gif" width="50%" description="Some examples from the Roger the Shark sticker pack by Melina" %}
 
 <br>
 
-<img src="/media/fabulous.gif" width="30%" style="float:left" />
+<img src="/media/fabulous.gif" width="25%" style="float:left" />
 
 {% include image.html url="/media/luca.gif" width="35%" description="Some examples from the Goldfish sticker pack by Luca" %}
 
@@ -89,3 +89,7 @@ Some students even chose to create mockups showing how their sticker packs would
 ## Evaluation
 
 Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
+
+Some students chose to change their stickers based on feedback from their target user and/or experts.
+
+##
