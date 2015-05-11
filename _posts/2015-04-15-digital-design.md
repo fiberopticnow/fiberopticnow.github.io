@@ -43,7 +43,22 @@ In the following image you can see the evolution of Kanna's sketches into digita
 
 {% include image.html url="/media/developingideas.png" width="100%" description="Developing Ideas with the IB Design Cycle, designs by Kanna" %}
 
-## Final Designs
+##Learning to use new software
+
+In order to learn how to make animated GIFs using software like Photoshop and GIMP, students delved into online tutorials and videos to teach themselves these new skills. My students were self-directed learners in this unit and truly taught themselves this new animation skill with online articles and tutorials. Some students even chose to create their own tutorials to show others how to use the software to create animated GIFs.
+
+Here's a tutorial by Chris on creating animated GIFs using Photoshop CS6.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxpozP6V14A" frameborder="0" allowfullscreen></iframe>
+
+Here's a tutorial by Jason on creating animated GIFs using GIMP.
+
+
+Here's a tutorial by Neha on creating animated GIFs using the web-based GIF generator, Picasion.
+
+
+
+## Final designs
 
 Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions. Below I have highlighted some student work which represents a couple of the stickers out of their pack.
 
@@ -62,7 +77,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/flowerdog.png" width="40%" style="float:left" />
 
-{% include image.html url="/media/margot.gif" width="40%" description="Animated GIF Design Project sticker pack by Margot" %}
+{% include image.html url="/media/margot.gif" width="40%" description="Some examples from the Rock Dog sticker pack by Margot" %}
 
 <br>
 
@@ -88,8 +103,22 @@ Some students even chose to create mockups showing how their sticker packs would
 
 ## Evaluation
 
-Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
+Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. One expert was so enthused that he tweeted out Victorine's emoticon to his followers on Twitter.
 
-Some students chose to change their stickers based on feedback from their target user and/or experts.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">No Way! Students in <a href="https://twitter.com/fiberopticnow">@fiberopticnow</a> Katie&#39;s grade 8 Design class made some AMAZING animated GIFs! <a href="http://t.co/JQjsNox9P1">pic.twitter.com/JQjsNox9P1</a></p>&mdash; Warren Apel (@warrena) <a href="https://twitter.com/warrena/status/581118464640880640">March 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##
+Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
+
+Some students chose to change their stickers based on feedback from their target user and/or experts. As you can see, Kylan chose to add color to his stickers, as well as animations, based upon the feedback from his target user and expert.
+
+
+
+##Reflection
+
+Overall, I was truly blown away by my students' hard work and determination on this project. It takes a lot of inquisitiveness and perseverance to self-direct one's own learning in a project-based setting. Furthermore, the IB Design Cycle is a very robust rubric that requires students to complete essay-length documents for sixteen criteria. Therefore, students are not only learning the new software and creating their product, but also thoroughly documenting their design processes.
+
+If I could do the project over again, I would have urged my students more strongly to submit their sticker packs for the <a href="https://creator.line.me/en/" Line Creator Market </a>, which is a marketplace where artists can submit their emoticon packs for use on the Line Messaging App to receive 50% of all profits. However, in order to submit stickers for Line, one must create 42 very professional prototypes. Perhaps this is something that high school design classes can take on. I'd love to hear of students' work making it into the actual Line store!
+
+##Let us know what you think!
+
+I hope that you were inspired by this unit plan to try an animated GIF lesson in your own classroom. Whether you're a design teacher, homeroom teacher, or other subject teacher, it is possible to integrate animated GIFs into your lessons. They're not only a great way to show motion, but also processes, or change over time. Please let us know what you thought of this design unit, as well as reach out if you decide to try something similar!
