@@ -8,7 +8,7 @@ video: false
 
 ---
 
-<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP Digital Design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user at another IB school in London. I'm so proud of my students and happy to share my design tech unit, as well as student examples below.
+<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP Digital Design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user in another section of the course. I'm so proud of my students and happy to share my design tech unit on animated sticker packs, as well as student examples below.
 </em>
 
 
@@ -16,7 +16,7 @@ video: false
 
 For this design tech unit plan, I prompted students to think about how communications have changed over the ages. We started our process of inquiry by discussing the first written communications in Mesopotamia via cuneiform tablets, to hieroglyphics, to Morse Code, and finally to mobile and online communications. I used the following tweet to get the kids thinking about the connection between more pictoral forms of written language and emoji and/or sticker packs used in modern day communications.
 
-{% include image.html url="/media/tweet.png" width="100%" description="A tweet that inspired me to create this unit plan" %}
+{% include image.html url="/media/tweet.png" width="100%" description="The tweet that inspired me to create this unit plan" %}
 
 ## Implementing the IB Design Cycle in this project
 
