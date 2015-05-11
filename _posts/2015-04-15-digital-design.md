@@ -8,7 +8,7 @@ video: false
 
 ---
 
-<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP Digital Design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user at another IB school in London. I'm so proud of my students and happy to share my design tech unit, as well as student examples below.
+<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP Digital Design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user in another section of the course. I'm so proud of my students and happy to share my design tech unit on animated sticker packs, as well as student examples below.
 </em>
 
 
@@ -16,14 +16,14 @@ video: false
 
 For this design tech unit plan, I prompted students to think about how communications have changed over the ages. We started our process of inquiry by discussing the first written communications in Mesopotamia via cuneiform tablets, to hieroglyphics, to Morse Code, and finally to mobile and online communications. I used the following tweet to get the kids thinking about the connection between more pictoral forms of written language and emoji and/or sticker packs used in modern day communications.
 
-{% include image.html url="/media/codeweekposter.jpg" width="100%" description="Poster for EU Code Week by the amazing <a href='http://www.twitter.com/byWFG'>Wouter Goedkoop</a>" %}
+{% include image.html url="/media/tweet.png" width="100%" description="The tweet that inspired me to create this unit plan" %}
 
 ## Implementing the IB Design Cycle in this project
 
 The IB Design Tech program utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
 
 
-{% include image.html url="/media/designcycle.gif" width="100%" description="The IB MYP Design Cycle" %}
+{% include image.html url="/media/designcycle.gif" width="100%" description="The IB MYP Design Cycle by <a href="https://plus.google.com/u/1/+JacGubbels/posts">Jac Gubbels</a> %}
 
 ## Researching the topic
 
@@ -45,14 +45,20 @@ In the following image you can see the evolution of Kanna's sketches into digita
 
 ## Final Designs
 
-Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions.
+Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions. Below I have highlighted some student work which represents one sticker from each student's pack of 8-10.
 
 
-{% include image.html url="/media/melina.gif" width="100%" description="Animated GIF Design Project sticker by Melina" %}
+{% include image.html url="/media/melina.gif" width="50%" description="Animated GIF Design Project sticker by Melina" %}
+
+<img src="/media/melina.gif" width="30%" />
 
 {% include image.html url="/media/luca.gif" width="100%" description="Animated GIF Design Project sticker by Luca" %}
 
+{% include image.html url="/media/alex.gif" width="100%" description="Animated GIF Design Project sticker by Anonymous" %}
+
 {% include image.html url="/media/margot.gif" width="100%" description="Animated GIF Design Project sticker by Margot" %}
+
+{% include image.html url="/media/achille.gif" width="100%" description="Animated GIF Design Project sticker by Achille" %}
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
 
