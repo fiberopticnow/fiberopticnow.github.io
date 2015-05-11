@@ -50,7 +50,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/melina.gif" width="40%" style="float:left" />
 
-{% include image.html url="/media/Car.gif" width="40%" description="Some examples from the Roger the Shark sticker pack by Melina" %}
+{% include image.html url="/media/Car.gif" width="45%" description="Some examples from the Roger the Shark sticker pack by Melina" %}
 
 <br>
 
