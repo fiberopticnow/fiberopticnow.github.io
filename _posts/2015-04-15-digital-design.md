@@ -117,7 +117,7 @@ Some students chose to change their stickers based on feedback from their target
 
 Overall, I was truly blown away by my students' hard work and determination on this project. It takes a lot of inquisitiveness and perseverance to self-direct one's own learning in a project-based setting. Furthermore, the IB Design Cycle is a very robust rubric that requires students to complete essay-length documents for sixteen criteria. Therefore, students are not only learning the new software and creating their product, but also thoroughly documenting their design processes.
 
-If I could do the project over again, I would have urged my students more strongly to submit their sticker packs for the <a href="https://creator.line.me/en/" Line Creator Market </a> , which is a marketplace where artists can submit their emoticon packs for use on the Line Messaging App to receive 50% of all profits. However, in order to submit stickers for Line, one must create 42 very professional prototypes. Perhaps this is something that high school design classes can take on. I'd love to hear of students' work making it into the actual Line store!
+If I could do the project over again, I would have urged my students more strongly to submit their sticker packs for the <a href="https://creator.line.me/en/"> Line Creator Market </a> , which is a marketplace where artists can submit their emoticon packs for use on the Line Messaging App to receive 50% of all profits. However, in order to submit stickers for Line, one must create 42 very professional prototypes. Perhaps this is something that high school design classes can take on. I'd love to hear of students' work making it into the actual Line store!
 
 ##Let us know what you think!
 
