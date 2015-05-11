@@ -48,7 +48,7 @@ In the following image you can see the evolution of Kanna's sketches into digita
 Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions. Below I have highlighted some student work which represents one sticker from each student's pack of 8-10.
 
 
-<img src="/media/melina.gif" width="30%" style="float:left" />
+<img src="/media/melina.gif" width="40%" style="float:left" />
 
 {% include image.html url="/media/Car.gif" width="40%" description="Some examples from the Roger the Shark sticker pack by Melina" %}
 
@@ -56,13 +56,13 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/fabulous.gif" width="40%" style="float:left" />
 
-{% include image.html url="/media/luca.gif" width="50%" description="Some examples from the Goldfish sticker pack by Luca" %}
+{% include image.html url="/media/luca.gif" width="40%" description="Some examples from the Goldfish sticker pack by Luca" %}
 
 <br>
 
-<img src="/media/flowerdog.png" width="35%" style="float:left" />
+<img src="/media/flowerdog.png" width="40%" style="float:left" />
 
-{% include image.html url="/media/margot.gif" width="30%" description="Animated GIF Design Project sticker by Margot" %}
+{% include image.html url="/media/margot.gif" width="40%" description="Animated GIF Design Project sticker by Margot" %}
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
 
