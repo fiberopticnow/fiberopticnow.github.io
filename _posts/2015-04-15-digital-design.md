@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Students create animated sticker packs for Facebook Messenger in digital design class"
-image: /media/viral.jpg
+title: "Digital Design Class: 8th Graders Create Animated Sticker Packs for Facebook Messenger"
+image: /media/emojibackground.png
 dark: true
 video: false
 
@@ -23,7 +23,7 @@ For this design tech unit plan, I prompted students to think about how communica
 The IB Design Tech program utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
 
 
-{% include image.html url="/media/codeweekposter.jpg" width="100%" description="Poster for EU Code Week by the amazing <a href='http://www.twitter.com/byWFG'>Wouter Goedkoop</a>" %}
+{% include image.html url="/media/designcycle.gif" width="100%" description="The IB MYP Design Cycle" %}
 
 ## Researching the topic
 
@@ -31,7 +31,6 @@ The IB Design Tech program utilizes the IB Design Cycle to guide all project-bas
 In order to research the topic of emoticons in modern day communications, I enlisted the help of our Head Librarian <a href="https://twitter.com/michellerandis">Michelle Andis</a> who curated an amazing <a href="http://isa.nl.libguides.com/content.php?pid=652934&sid=5407276">Lib Guide </a> for my students with tons of resources on emoji research.
 
 One particularly interesting resource from the Lib Guide is the <a href="http://www.emojitracker.com"> Real Time Emoji Tracker </a> from which many students pulled data to create charts in Google Spreadsheets that highlighted the top used emojis at a given time.
-
 
 {% include image.html url="/media/seohyungraph.png" width="100%" description="Inquiring & Analyzing with the IB MYP Design Cycle, graph by Seo Hyun" %}
 
@@ -46,11 +45,19 @@ In the following image you can see the evolution of Kanna's sketches into digita
 
 ## Final Designs
 
+Students created 8-10 stickers for their Facebook Messenger sticker packs showing a variety of different emotions.
+
+
 {% include image.html url="/media/melina.gif" width="100%" description="Animated GIF Design Project sticker by Melina" %}
 
 {% include image.html url="/media/luca.gif" width="100%" description="Animated GIF Design Project sticker by Luca" %}
 
 {% include image.html url="/media/margot.gif" width="100%" description="Animated GIF Design Project sticker by Margot" %}
+
+Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
+
+{% include image.html url="/media/seohyunmockup.gif" width="100%" description="An animated mockup by Seo Hyun" %}
+
 
 ## Evaluation
 
