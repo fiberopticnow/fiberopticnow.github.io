@@ -40,7 +40,7 @@ In order to research the topic of emoticons in modern day communications, I enli
 
 One particularly interesting resource from the Lib Guide is the <a href="http://www.emojitracker.com"> Real Time Emoji Tracker </a> from which many students pulled data to create charts in Google Spreadsheets that highlighted the top used emojis at a given time.
 
-{% include image.html url="/media/seohyungraph.png" width="100%" description="Inquiring & Analyzing with the IB MYP Design Cycle, graph by Seo Hyun" %}
+{% include image.html url="/media/seohyungraph.png" width="100%" description="Inquiring & Analyzing with the IB MYP Design Cycle, graph by Seohyun" %}
 
 
 ## Prototyping
@@ -94,7 +94,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/rainbow.gif" width="40%" style="float:left" />
 
-{% include image.html url="/media/magic.gif" width="40%" description="Some examples from the Llama sticker pack by Yoo Jin" %}
+{% include image.html url="/media/magic.gif" width="40%" description="Some examples from the Llama sticker pack by Yoojin" %}
 
 <br>
 
@@ -102,7 +102,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 <img src="/media/mad.gif" width="33%" style="float:left" />
 
-{% include image.html url="/media/fire.gif" width="33%" description="Some examples from the Turtle sticker pack by Seo Hyun" %}
+{% include image.html url="/media/fire.gif" width="33%" description="Some examples from the Turtle sticker pack by Seohyun" %}
 
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
