@@ -8,7 +8,13 @@ video: false
 
 ---
 
-<em> My 8th grade students at the International School of Amsterdam recently completed an exciting project for their IB MYP digital design course. For our first design challenge of the semester, students were prompted to create animated sticker packs for a specific target user in another section of the course. I'm so proud of my students and happy to share my design tech unit on animated sticker packs, as well as student examples below.
+<em>
+<ul>
+  <li> Designers: 8th graders </li>
+  <li> Where: International School of Amsterdam </li>
+  <li> Design Challenge: Create an Animated Digital Sticker Pack </li>
+
+I'm so very proud of my students and all their awesome creations for this project. I'm happy to share my design tech unit on animated sticker packs, as well as student examples below.
 </em>
 
 
@@ -99,9 +105,9 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 
 Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
 
-{% include image.html url="/media/seohyunmockup.gif" width="100%" description="An animated mockup by Seo Hyun" %}
+{% include image.html url="/media/seohyunmockup.gif" width="100%" description="An animated mockup by Seohyun" %}
 
-{% include image.html url="/media/mockup2.gif" width="70%" description="Another animated mockup by Seo Hyun" %}
+{% include image.html url="/media/mockup2.gif" width="70%" description="Another animated mockup by Seohyun" %}
 
 
 ## Evaluation
