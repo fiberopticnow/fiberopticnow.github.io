@@ -120,9 +120,9 @@ Students sought out expert appraisals from teachers, graphic design professional
 
 Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
 
-Some students chose to change their stickers based on feedback from their target user and/or experts. As you can see, Kylan chose to add color to his stickers, as well as animations, based upon the feedback from his target user and expert.
+Some students chose to change their stickers based on feedback from their target user and/or experts. As you can see, Ky chose to add color to his stickers, as well as animations, based upon the feedback from his target user and expert.
 
-
+{% include image.html url="/media/ky.png" width="70%" description="Ky changed his original images based on expert feedback" %}
 
 ##Reflection
 
