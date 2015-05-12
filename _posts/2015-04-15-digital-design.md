@@ -9,10 +9,13 @@ video: false
 ---
 
 <em>
+<strong>
 <ul>
   <li> Designers: 8th graders </li>
   <li> Where: International School of Amsterdam </li>
   <li> Design Challenge: Create an Animated Digital Sticker Pack </li>
+</ul>
+</strong>
 
 I'm so very proud of my students and all their awesome creations for this project. I'm happy to share my design tech unit on animated sticker packs, as well as student examples below.
 </em>
