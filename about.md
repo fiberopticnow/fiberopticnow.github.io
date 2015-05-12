@@ -4,7 +4,7 @@ title: Fiber Optic What?
 ---
 
 <div class="message">
-  Digital trends, education technology, expat living
+  Digital trends, education technology, international marketing
 </div>
 
 ###The Author
