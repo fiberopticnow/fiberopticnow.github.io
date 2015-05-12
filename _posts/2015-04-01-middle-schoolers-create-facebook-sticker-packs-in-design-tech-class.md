@@ -12,21 +12,21 @@ video: false
 <ul>
   <li> Designers: 8th graders </li>
   <li> Where: International School of Amsterdam </li>
-  <li> Design Challenge: Create an Animated Digital Sticker Pack </li>
+  <li> Design Challenge: Create an animated digital sticker pack to help your target user better convey their emotions online</li>
 
-I'm so very proud of my students and all their awesome creations for this project. I'm happy to share my design tech unit on animated sticker packs, as well as student examples below. 
+I'm very proud of my students and all their awesome creations for this project. I hope that the design tech unit plan and student examples below will inspire other students and teachers to create animated GIFs in their classes.
 </em>
 
 
 ## Getting started: How is communication changing in the digital age?
 
-For this design tech unit plan, I prompted students to think about how communications have changed over the ages. We started our process of inquiry by discussing the first written communications in Mesopotamia via cuneiform tablets, to hieroglyphics, to Morse Code, and finally to mobile and online communications. I used the following tweet to get the kids thinking about the connection between more pictoral forms of written language and emoji and/or sticker packs used in modern day communications.
+For this design tech unit plan, I prompted students to think about how communications have changed over the ages. We started our process of inquiry by discussing the first written communications in Mesopotamia on cuneiform tablets. Then, we made connections to hieroglyphics, Morse Code, the radio, the telephone, and finally to the mobile and online communications used today. I used the following tweet to get the kids thinking about the connection between more pictorial forms of written language and emoji and/or sticker packs used in modern day communications.
 
 {% include image.html url="/media/tweet.png" width="70%" description="The tweet that inspired me to create this unit plan" %}
 
 ## Implementing the IB Design Cycle in this project
 
-The IB Design Tech program utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
+The <a href="http://www.ibo.org/en/programmes/middle-years-programme/">IB MYP Design Technology program </a> utilizes the IB Design Cycle to guide all project-based learning. As you can see below, we start out researching the topic and then move on to prototyping. Next, we create the actual product and finally  evaluate the test the product for effectiveness based on the design specification.
 
 
 {% include image.html url="/media/designcycle.gif" width="70%" description="My animated hack of the IB MYP Design Cycle graphics by Jac Gubbels" %}
@@ -112,14 +112,9 @@ Some students even chose to create mockups showing how their sticker packs would
 
 ## Evaluation
 
-Students sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. One expert, the International School of Amsterdam's IT Director, Warren Apel, was so enthused that he tweeted out Victorine's emoticon to his followers on Twitter.
+Students surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user was looking to better communicate online. Students also sought out expert appraisals from teachers, graphic design professionals and IT experts from within the International School of Amsterdam and beyond for feedback on their work. One expert, the International School of Amsterdam's IT Director, Warren Apel, was so enthused that he tweeted out Victorine's emoticon to his followers on Twitter.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">No Way! Students in <a href="https://twitter.com/fiberopticnow">@fiberopticnow</a> Katie&#39;s grade 8 Design class made some AMAZING animated GIFs! <a href="http://t.co/JQjsNox9P1">pic.twitter.com/JQjsNox9P1</a></p>&mdash; Warren Apel (@warrena) <a href="https://twitter.com/warrena/status/581118464640880640">March 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Of course, students also surveyed their target user, as well as conducted user tests to see which stickers best expressed the emotions that their target user wanted to communicate online.
-
-Some students chose to change their stickers based on feedback from their target user and/or experts. As you can see, Kylan chose to add color to his stickers, as well as animations, based upon the feedback from his target user and expert.
-
 
 
 ##Reflection
