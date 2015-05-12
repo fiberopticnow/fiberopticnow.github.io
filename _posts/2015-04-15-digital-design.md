@@ -105,7 +105,7 @@ Students created 8-10 stickers for their Facebook Messenger sticker packs showin
 {% include image.html url="/media/fire.gif" width="33%" description="Some examples from the Turtle sticker pack by Seohyun" %}
 
 
-Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seo Hyun even created an animated mockup, which really took the concept to the next level.
+Some students even chose to create mockups showing how their sticker packs would look if in use in Facebook Messenger. Seohyun even created an animated mockup, which really took the concept to the next level.
 
 {% include image.html url="/media/seohyunmockup.gif" width="100%" description="An animated mockup by Seohyun" %}
 
