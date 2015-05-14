@@ -124,7 +124,7 @@ Some students chose to change their stickers based on feedback from their target
 
 <img src="/media/kybefore.png" width="43%" style="float:left" />
 
-{% include image.html url="/media/kyafter.gif" width="38%" description="Ky changed his original black and white images to colorful animated GIFs based on expert feedback" %}
+{% include image.html url="/media/kyafter.gif" width="40%" description="Ky changed his original black and white images to colorful animated GIFs based on expert feedback" %}
 
 ##Reflection
 
