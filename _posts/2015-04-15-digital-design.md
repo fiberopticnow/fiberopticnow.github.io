@@ -122,7 +122,7 @@ Of course, students also surveyed their target user, as well as conducted user t
 
 Some students chose to change their stickers based on feedback from their target user and/or experts. As you can see, Ky chose to add color to his stickers, as well as animations, based upon the feedback from his target user and expert.
 
-<img src="/media/kybefore.png" width="50%" style="float:left" />
+<img src="/media/kybefore.png" width="45%" style="float:left" />
 
 {% include image.html url="/media/kyafter.gif" width="40%" description="Ky changed his original black and white images to colorful animated GIFs based on expert feedback" %}
 
