@@ -7,7 +7,7 @@ dark: true
 video: false
 ---
 
-<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist [" app from TechCrunch Disrupt last year"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925). It's about time that we start building meaningful apps at hackathons that inspire social change.</em>
+<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist ["app from TechCrunch Disrupt last year"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925). It's about time that we start building meaningful apps at hackathons that inspire social change.</em>
 
 
 ## The Kings of Code
