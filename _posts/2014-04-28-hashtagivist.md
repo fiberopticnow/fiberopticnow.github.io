@@ -7,7 +7,7 @@ dark: true
 video: false
 ---
 
-<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist ["Tit staring app"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925) from TechCrunch Disrupt last year. It's about time that we change the "dude" culture of programming into a progressive group that builds apps for social change.  </em>
+<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist [" app from TechCrunch Disrupt last year"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925). It's about time that we start building meaningful apps at hackathons that inspire social change.</em>
 
 
 ## The Kings of Code
@@ -27,11 +27,11 @@ Needless to say, women are still facing some serious stereotypes in the tech fie
 
 ##Our Hack: Hashtagivist
 
-[Hashtagivist](http://www.hashtagivist.com) stands for "Hashtag Activist" was inspired by the amazing work of [Suey Park](https://twitter.com/suey_park),  [Mikki Kendall](https://twitter.com/Karnythia), and other proponents for social change and equality on Twitter. 
+[Hashtagivist](http://www.hashtagivist.com) stands for "Hashtag Activist" was inspired by the amazing work of [Suey Park](https://twitter.com/suey_park),  [Mikki Kendall](https://twitter.com/Karnythia), and other proponents for social change and equality on Twitter.
 
 There are so many of us that believe in equality, and want to lobby for social change, but either aren't that well-versed with Twitter, or have trouble finding hashtag campaigns. For me, I'd always catch campaigns after-the-fact via a blog post, and think to myself, "Gee, I wish I had seen that on Twitter when it was happening. I would have definitely retweeted, or taken action in some way."
 
-With Hashtagivist, campaign leaders can submit their hashtags to the site before they launch their campaign via Twitter. Then, they can track their hashtag stats on Hashtagivist, and gain wider exposure for their campaign. 
+With Hashtagivist, campaign leaders can submit their hashtags to the site before they launch their campaign via Twitter. Then, they can track their hashtag stats on Hashtagivist, and gain wider exposure for their campaign.
 
 Users can search the site by topic (more topics to come!), and receive email alerts as soon as a new hashtag campaign goes live in their areas of interest.
 
@@ -52,6 +52,3 @@ We were stoked to win the Twitter API prize at The Next Web Hack Battle for our 
 ##We'd love to hear your thoughts!
 
 Although this started out as a fun hack for a hackathon, we feel that this site may be beneficial to hashtag activists on Twitter, including non-profits, organizations, and individual activists. Please let us know what you think of our site in the comments below, and please give us feedback. This platform was built for you, so we'd love to optimize it based on your needs. Thanks!
-
-
-
