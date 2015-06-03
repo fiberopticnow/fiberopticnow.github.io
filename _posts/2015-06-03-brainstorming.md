@@ -17,6 +17,7 @@ video: false
 
 Collaboration is key! As you can see, all group participants are actively involved in an effective brainstorming session. You'll also notice that this group is getting really creative by brainstorming visually with paints. Brainstorming can take many different forms. Your group should choose to brainstorm ideas in a format that works the best for you.
 <br>
+<br>
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Supporting each other &amp; brainstorming with the HoCo ladies <a href="https://twitter.com/HerCorner">@HerCorner</a> group over cake n wine. <a href="https://twitter.com/hashtag/bizwomen?src=hash">#bizwomen</a> <a href="http://t.co/qoFXUR0wYN">pic.twitter.com/qoFXUR0wYN</a></p>&mdash; Mary Gardella (@marygardella) <a href="https://twitter.com/marygardella/status/601014577518678016">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -28,7 +29,7 @@ In this brainstorming example you can see that brainstorming participants are in
 	<li> That's a really cool idea. Is it ok if I also work on the same concept in a different way? </li>
 	<li> I'd love to get your feedback on this concept. What do you think? </li>
 </ol>
-<br>
+
 
 ##Examples of how your brainstorm could look
 
