@@ -15,11 +15,20 @@ video: false
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Collaborative lesson brainstorming is happening w/ art materials in <a href="https://twitter.com/PhillipsMuseum">@PhillipsMuseum</a> art workshop! <a href="https://twitter.com/hashtag/TeachwithPrismK12?src=hash">#TeachwithPrismK12</a> <a href="http://t.co/QDkwEMnSMO">pic.twitter.com/QDkwEMnSMO</a></p>&mdash; Prism.K12 (@PrismK12) <a href="https://twitter.com/PrismK12/status/601084777643540480">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Collaboration is key! As you can see, all group participants are actively involved in an effective brainstorming session.
+Collaboration is key! As you can see, all group participants are actively involved in an effective brainstorming session. You'll also notice that this group is getting really creative by brainstorming visually with paints. Brainstorming can take many different forms. Your group should choose to brainstorm ideas in a format that works the best for you.
+<br>
+
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Supporting each other &amp; brainstorming with the HoCo ladies <a href="https://twitter.com/HerCorner">@HerCorner</a> group over cake n wine. <a href="https://twitter.com/hashtag/bizwomen?src=hash">#bizwomen</a> <a href="http://t.co/qoFXUR0wYN">pic.twitter.com/qoFXUR0wYN</a></p>&mdash; Mary Gardella (@marygardella) <a href="https://twitter.com/marygardella/status/601014577518678016">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In this brainstorming example you can see that brainstorming participants are interacting with one another in a polite manner. Keep your brainstorming session fun by respecting others.
+In this brainstorming example you can see that brainstorming participants are interacting with one another in a polite manner. Keep your brainstorming session fun by respecting others. Here are some sentence starters that can help to facilitate a collaborative brainstorming environment:
+
+<ol>
+	<li> Could you tell me more about the idea you're working on? </li>
+	<li> That's a really cool idea. Is it ok if I also work on the same concept in a different way? </li>
+	<li> I'd love to get your feedback on this concept. What do you think? </li>
+</ol>
+<br>
 
 ##Examples of how your brainstorm could look
 
