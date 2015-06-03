@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "How to conduct an effective brainstorm in your design technology class"
-image: /media/FBsticker.jpg
+image: /media/brainstorm.jpg
 dark: true
 video: false
 
 
 ---
+
+<em> Conducting effective brainstorms can be harder than it seems. I've conducted many brainstorms in my MYP Digital Design courses and wanted to share a post that you can share with your students to help them better understand how to behave and interact to increase the effectiveness of their brainstorms. </em>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now THIS, is a brainstorm. <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/hashtag/dtchat?src=hash">#dtchat</a> <a href="https://twitter.com/hashtag/designchat?src=hash">#designchat</a> <a href="https://twitter.com/hashtag/designthinking?src=hash">#designthinking</a> <a href="https://twitter.com/hashtag/myp?src=hash">#myp</a> <a href="https://twitter.com/hashtag/mypchat?src=hash">#mypchat</a> <a href="https://twitter.com/hashtag/cisdesign?src=hash">#cisdesign</a> <a href="https://twitter.com/CISsingapore">@CISsingapore</a> <a href="http://t.co/1YjnU9nzEb">pic.twitter.com/1YjnU9nzEb</a></p>&mdash; Joe Sergi (@pep073) <a href="https://twitter.com/pep073/status/598369464736841728">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
