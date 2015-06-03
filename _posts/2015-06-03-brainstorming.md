@@ -22,14 +22,8 @@ video: false
 
 ##Examples of how your brainstorm could look
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Now THIS, is a brainstorm. <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/hashtag/dtchat?src=hash">#dtchat</a> <a href="https://twitter.com/hashtag/designchat?src=hash">#designchat</a> <a href="https://twitter.com/hashtag/designthinking?src=hash">#designthinking</a> <a href="https://twitter.com/hashtag/myp?src=hash">#myp</a> <a href="https://twitter.com/hashtag/mypchat?src=hash">#mypchat</a> <a href="https://twitter.com/hashtag/cisdesign?src=hash">#cisdesign</a> <a href="https://twitter.com/CISsingapore">@CISsingapore</a> <a href="http://t.co/1YjnU9nzEb">pic.twitter.com/1YjnU9nzEb</a></p>&mdash; Joe Sergi (@pep073) <a href="https://twitter.com/pep073/status/598369464736841728">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming character traits with <a href="https://twitter.com/ChichesterFYT">@ChichesterFYT</a> puppeteers for the animals in <a href="https://twitter.com/hashtag/RunningWild?src=hash">#RunningWild</a> <a href="https://twitter.com/ChichesterFT">@ChichesterFT</a> <a href="http://t.co/O7eimRIcOF">pic.twitter.com/O7eimRIcOF</a></p>&mdash; Gyre &amp; Gimble (@GyrAndGmbl) <a href="https://twitter.com/GyrAndGmbl/status/602891693139095552">May 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Reunited with my brainstorming weapon of choice. <a href="http://t.co/UClQzFHQsb">pic.twitter.com/UClQzFHQsb</a></p>&mdash; Petra M (@pitradactyl) <a href="https://twitter.com/pitradactyl/status/601553314615074816">May 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">we are brainstorming! So excited to design learning spaces with these 7th graders and <a href="https://twitter.com/debbiefuco">@debbiefuco</a> <a href="https://twitter.com/hashtag/stuvoice?src=hash">#stuvoice</a> <a href="http://t.co/0qMXRr6SQW">pic.twitter.com/0qMXRr6SQW</a></p>&mdash; Rebecca Hare (@RLH_DesignED) <a href="https://twitter.com/RLH_DesignED/status/598896423090786304">May 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">So much brainstorming today <a href="https://twitter.com/hashtag/brainfood?src=hash">#brainfood</a> <a href="https://twitter.com/hashtag/mindmapping?src=hash">#mindmapping</a> <a href="https://twitter.com/hashtag/brainstorming?src=hash">#brainstorming</a> so exciting <a href="http://t.co/W0ozn0rezp">pic.twitter.com/W0ozn0rezp</a></p>&mdash; Hend krichen (@HendKrichen) <a href="https://twitter.com/HendKrichen/status/598843596167651328">May 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -37,8 +31,6 @@ video: false
 
 
 ##How to select your best ideas from your brainstorm
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our look back at this week- brainstorming with <a href="https://twitter.com/winklerinst">@winklerinst</a> Social Lab &amp; Julie’s new blog <a href="http://t.co/rpJ8qfEoqn">http://t.co/rpJ8qfEoqn</a> <a href="https://twitter.com/hashtag/a2j?src=hash">#a2j</a> <a href="http://t.co/uOUx7M2HV4">pic.twitter.com/uOUx7M2HV4</a></p>&mdash; Julie Macfarlane (@ProfJulieMac) <a href="https://twitter.com/ProfJulieMac/status/601739544631771137">May 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Planning a Gr1 poetry unit. Brainstorming what readers would need or do to appreciate n understand poetry <a href="https://twitter.com/hashtag/sisrocks?src=hash">#sisrocks</a> <a href="http://t.co/34BnDe6dNt">pic.twitter.com/34BnDe6dNt</a></p>&mdash; Jeannie Sung (@JeannieSung) <a href="https://twitter.com/JeannieSung/status/598002509521625090">May 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
