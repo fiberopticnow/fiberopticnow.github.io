@@ -98,13 +98,16 @@ In the example above, you can see that this brainstorm produced some awesome log
 You don't always have to sit down during brainstorming sessions. Brainstorming can be an active process using posters on the wall that allows team members to walk around the room.
 <br>
 
-#Additional Resources
+#Additional resources for brainstorming
 
 Check out the <a href="https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf">Stanford d.School</a> resource on brainstorming.
 
-{% include image.html url="/media/coolcatbrainstorming.png" width="70%" description="Cool Cat Teacher's 3 Step Brainstorming Process" %}
+{% include image.html url="/media/dschoolbrainstorming.png" width="70%" description="Brainstorming Rules by the Stanford dSchool" %}
 
 Cool Cat Teacher, Vicky Davis, also has an awesome resource on a 3-step brainstorming process. Check it out <a href="http://www.coolcatteacher.com/3-step-collaborative-brainstorming-process-tools-tips">here!</a> 
+
+{% include image.html url="/media/coolcatbrainstorming.png" width="70%" description="Cool Cat Teacher's 3 Step Brainstorming Process" %}
+
 
 #How do you facilitate brainstorming sessions in your classes?
 
