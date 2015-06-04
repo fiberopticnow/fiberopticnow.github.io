@@ -15,9 +15,9 @@ video: false
 Brainstorming in a team environment definitely has its challenges. It's important to ensure that all group members are engaged in the brainstorming process. However, it's equally important to create a warm and fun environment with your team. Here are some easy guidelines to ensure that your brainstorming team works effectively together:
 
 <ol>
-	<li> Write out your ideas fast. Get the ideas out of your head as quickly as possible. </li>
-	<li> Don't judge your teammates' ideas. Phrases like "this will never work" shouldn't be allowed </li>
-	<li> Draw your ideas, write your ideas---get the ideas out in whatever way works best for you </li>
+	<li> Draw or write out your ideas fast. Get the ideas out of your head as quickly as possible. </li>
+	<li> Don't judge your teammates' ideas. Phrases like "this will never work" aren't allowed. </li>
+	<li> Piggyback off the ideas of your teammates. Two brains are better than one and can have totally different perspectives on a concept. </li>
 </ol>
 
 
@@ -84,4 +84,14 @@ In the example above, you can see that this brainstorm produced some awesome log
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Residents brainstorm about core neighbourhood rec centre <a href="http://t.co/ITTlMJSjjV">http://t.co/ITTlMJSjjV</a> What would you like to see? <a href="https://twitter.com/hashtag/yxe?src=hash">#yxe</a> <a href="http://t.co/bdgHEf02zl">pic.twitter.com/bdgHEf02zl</a></p>&mdash; Leisha Grebinski (@LeishaCBC) <a href="https://twitter.com/LeishaCBC/status/598466132060852225">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You don't always have to sit down during brainstorming sessions. Brainstorming can be an active process using posters on the wall
+You don't always have to sit down during brainstorming sessions. Brainstorming can be an active process using posters on the wall that allows team members to walk around the room.
+<br>
+
+##Additional Resources
+
+Check out the <a href="https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf">Stanford d.School</a> resource on brainstorming.
+
+##How do you facilitate brainstorming sessions in your classes?
+
+Comment below to share your experiences with facilitating brainstorming sessions. I'd love to hear your ideas!
+
