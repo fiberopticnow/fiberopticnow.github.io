@@ -14,9 +14,9 @@ video: false
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming ideas for a short film <a href="https://twitter.com/hashtag/filmmaking?src=hash">#filmmaking</a> <a href="https://twitter.com/hashtag/screenwriting?src=hash">#screenwriting</a>&#10;<a href="http://t.co/gd3q2nIn8L">http://t.co/gd3q2nIn8L</a> <a href="http://t.co/Dp8fizfU9t">pic.twitter.com/Dp8fizfU9t</a></p>&mdash; Darious J. Britt (@D4Darious) <a href="https://twitter.com/D4Darious/status/606113402776190977">June 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-#How to interact in your brainstorming team
+#Brainstorming expecations for success
 
-Brainstorming in a team environment definitely has its challenges. It's important to ensure that all group members are engaged in the brainstorming process. However, it's equally important to create a warm and fun environment with your team. Here are some easy guidelines to ensure that your brainstorming team works effectively together:
+The purpose of a brainstorming sesion is to generate a large quantity of ideas. In order to do this, it's important to ensure that all group members are engaged in the brainstorming process. However, it's equally vital to create a warm and fun environment with your team. Here are some easy guidelines to ensure that your brainstorming team works effectively together:
 
 <ol>
 	<li> Draw or write out your ideas fast. Get the ideas out of your head as quickly as possible. </li>
@@ -25,7 +25,7 @@ Brainstorming in a team environment definitely has its challenges. It's importan
 	<li> Encourage wild ideas. The wilder the better! Stretch your thinking in your brainstorm to go way outside of the box. </li>
 </ol>
 
-#Examples of excellent brainstorming sessions
+#Examples of productive and professional brainstorming sessions
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Collaborative lesson brainstorming is happening w/ art materials in <a href="https://twitter.com/PhillipsMuseum">@PhillipsMuseum</a> art workshop! <a href="https://twitter.com/hashtag/TeachwithPrismK12?src=hash">#TeachwithPrismK12</a> <a href="http://t.co/QDkwEMnSMO">pic.twitter.com/QDkwEMnSMO</a></p>&mdash; Prism.K12 (@PrismK12) <a href="https://twitter.com/PrismK12/status/601084777643540480">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -61,6 +61,11 @@ Brainstorming is an inherently creative process. Feel free to get your ideas out
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming Pit-Soul Style <a href="https://twitter.com/hashtag/pitchlikeagirl?src=hash">#pitchlikeagirl</a> <a href="https://twitter.com/hashtag/SWGirls?src=hash">#SWGirls</a> <a href="https://twitter.com/LWGMS">@LWGMS</a> <a href="http://t.co/ESvudPUzil">pic.twitter.com/ESvudPUzil</a></p>&mdash; Liz Hunt (@hilntuz) <a href="https://twitter.com/hilntuz/status/599642513348034561">May 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 As you can see in the image above, brainstorming could take the form of writing on a whiteboard, or working collaboratively on a document on the computer. You know how you work best and it's important to have the flexibility to capture your ideas during a brainstorm in a way that works best for you.
+<br>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Passionate use of Popplet MT <a href="https://twitter.com/3rdGrLDRS">@3rdGrLDRS</a>: Lots of GREAT synergizing, brainstorming for passion projects using Popplet <a href="http://t.co/bZbB86Xwln">pic.twitter.com/bZbB86Xwln</a></p>&mdash; popplet (@poppletny) <a href="https://twitter.com/poppletny/status/603184155866898434">May 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Mindmapping is another great way to organize your brainstorm. There are tons of awesome mindmapping apps and online tools that you can use for team members who prefer working digitally.  
 <br>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">There’s a major brainstorming session underway at M A C K E E N E. <a href="https://twitter.com/hashtag/WorkspaceWednesday?src=hash">#WorkspaceWednesday</a> photo via <a href="https://twitter.com/MACKEENE_">@MACKEENE_</a> <a href="http://t.co/4hgfNeuRMJ">pic.twitter.com/4hgfNeuRMJ</a></p>&mdash; PANTONE (@pantone) <a href="https://twitter.com/pantone/status/598516952278118401">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
