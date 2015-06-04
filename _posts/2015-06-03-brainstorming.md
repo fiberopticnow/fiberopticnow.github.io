@@ -25,7 +25,7 @@ Brainstorming in a team environment definitely has its challenges. It's importan
 	<li> Encourage wild ideas. The wilder the better! Stretch your thinking in your brainstorm to go way outside of the box. </li>
 </ol>
 
-##Examples of excellent brainstorming sessions
+#Examples of excellent brainstorming sessions
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Collaborative lesson brainstorming is happening w/ art materials in <a href="https://twitter.com/PhillipsMuseum">@PhillipsMuseum</a> art workshop! <a href="https://twitter.com/hashtag/TeachwithPrismK12?src=hash">#TeachwithPrismK12</a> <a href="http://t.co/QDkwEMnSMO">pic.twitter.com/QDkwEMnSMO</a></p>&mdash; Prism.K12 (@PrismK12) <a href="https://twitter.com/PrismK12/status/601084777643540480">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -46,7 +46,7 @@ In this brainstorming example you can see that brainstorming participants are in
 </ol>
 
 
-##Examples of how your brainstorming document might look
+#Examples of how your brainstorming document might look
 
 Brainstorming is an inherently creative process. Feel free to get your ideas out in the way that works best for you and your team. Here are some examples:
 
@@ -68,7 +68,7 @@ As you can see in the image above, brainstorming could take the form of writing 
 Sometimes brainstorming can be messy and that's ok. In the image above, the designer has spread out tons of Pantone colors to aid in his creative process. If your brainstorming session gets messy, that's fine---just remember to clean up afterwards. 
 <br>
 
-##How to select your best ideas from your brainstorm
+#How to select your best ideas from your brainstorm
 
 During the brainstorm you weren't judging the ideas, right? Well, now it's time to let all of that judgment out. After an effective brainstorm you will have tons of ideas and some of them will inevitably be more interesting than others. Now, you'll need to discuss your ideas with your team. Here are some guidelines to facilitate that process:
 
@@ -93,11 +93,11 @@ In the example above, you can see that this brainstorm produced some awesome log
 You don't always have to sit down during brainstorming sessions. Brainstorming can be an active process using posters on the wall that allows team members to walk around the room.
 <br>
 
-##Additional Resources
+#Additional Resources
 
 Check out the <a href="https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf">Stanford d.School</a> resource on brainstorming.
 
-##How do you facilitate brainstorming sessions in your classes?
+#How do you facilitate brainstorming sessions in your classes?
 
 Comment below to share your experiences with facilitating brainstorming sessions. I'd love to hear your ideas!
 
