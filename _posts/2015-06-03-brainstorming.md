@@ -8,7 +8,7 @@ video: false
 
 ---
 
-<em> Conducting an effective brainstorm can be harder than it seems. I've conducted many brainstorms in my MYP Digital Design courses and wanted to share a post that you can share with your students to help them better understand how to behave and interact to increase the effectiveness of their brainstorms. </em>
+<em> Conducting an effective brainstorm can be harder than it seems. I created this post for you to share with your students to help them better understand how to behave and interact to increase the effectiveness of their brainstorms. </em>
 
 ##Examples of how to interact in your brainstorming team
 
@@ -82,7 +82,6 @@ As you can see above, this student has taken his time to brainstorm a bunch of d
 In the example above, you can see that this brainstorm produced some awesome logo ideas. Now, the group will professionally discuss the pros and cons of each design and work together to select the best design.
 <br>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Half time at <a href="https://twitter.com/hashtag/iPrimary2015?src=hash">#iPrimary2015</a> yesterday I had sandpit time in <a href="https://twitter.com/poppletny">@poppletny</a> and made this brainstorm of its capabilities <a href="http://t.co/0wFIlnX3iK">pic.twitter.com/0wFIlnX3iK</a></p>&mdash; Drew Murphy (@murphydrew_) <a href="https://twitter.com/murphydrew_/status/601154884616912896">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Residents brainstorm about core neighbourhood rec centre <a href="http://t.co/ITTlMJSjjV">http://t.co/ITTlMJSjjV</a> What would you like to see? <a href="https://twitter.com/hashtag/yxe?src=hash">#yxe</a> <a href="http://t.co/bdgHEf02zl">pic.twitter.com/bdgHEf02zl</a></p>&mdash; Leisha Grebinski (@LeishaCBC) <a href="https://twitter.com/LeishaCBC/status/598466132060852225">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-There are tons of different mindmapping tools available online that can help to facilitate a great brainstorming session for tech-savvy students. 
-<br>
+You don't always have to sit down during brainstorming sessions. Brainstorming can be an active process using posters on the wall
