@@ -8,9 +8,12 @@ video: false
 
 ---
 
-<em> Conducting an effective brainstorm can be harder than it seems. I created this post for you to share with your students to help them better understand how to behave and interact to increase the effectiveness of their brainstorms. </em>
+<em> Facilitating an effective brainstorming session with your students or colleagues can be difficult. As the facilitator, it is your role to keep the energy levels high and ensure that all participants are fully engaged. I created this post as a resource that you can share with your brainstorming session participants in order to highlight examples of how to effectively brainstorm, as well as expectations. Feel free to share and comment at the bottom of this page with feedback! </em>
 
-##Examples of how to interact in your brainstorming team
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming ideas for a short film <a href="https://twitter.com/hashtag/filmmaking?src=hash">#filmmaking</a> <a href="https://twitter.com/hashtag/screenwriting?src=hash">#screenwriting</a>&#10;<a href="http://t.co/gd3q2nIn8L">http://t.co/gd3q2nIn8L</a> <a href="http://t.co/Dp8fizfU9t">pic.twitter.com/Dp8fizfU9t</a></p>&mdash; Darious J. Britt (@D4Darious) <a href="https://twitter.com/D4Darious/status/606113402776190977">June 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
+##How to interact in your brainstorming team
 
 Brainstorming in a team environment definitely has its challenges. It's important to ensure that all group members are engaged in the brainstorming process. However, it's equally important to create a warm and fun environment with your team. Here are some easy guidelines to ensure that your brainstorming team works effectively together:
 
