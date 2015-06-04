@@ -19,9 +19,12 @@ Brainstorming in a team environment definitely has its challenges. It's importan
 
 <ol>
 	<li> Draw or write out your ideas fast. Get the ideas out of your head as quickly as possible. </li>
-	<li> Don't judge your teammates' ideas. Phrases like "this will never work" aren't allowed. </li>
-	<li> Piggyback off the ideas of your teammates. Two brains are better than one and can have totally different perspectives on a concept. </li>
+	<li> Don't judge your ideas or the ideas of others. This part will come later when you narrow down your ideas to your best ones. Phrases like "this will never work" aren't allowed in brainstorming. </li>
+	<li> Piggyback off the ideas of your teammates. Two brains are better than one and can have totally different perspectives on a concept. The more perspectives the better!</li>
+	<li> Encourage wild ideas. The wilder the better! Stretch your thinking in your brainstorm to go way outside of the box. </li>
 </ol>
+
+##Examples of excellent brainstorming sessions
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Collaborative lesson brainstorming is happening w/ art materials in <a href="https://twitter.com/PhillipsMuseum">@PhillipsMuseum</a> art workshop! <a href="https://twitter.com/hashtag/TeachwithPrismK12?src=hash">#TeachwithPrismK12</a> <a href="http://t.co/QDkwEMnSMO">pic.twitter.com/QDkwEMnSMO</a></p>&mdash; Prism.K12 (@PrismK12) <a href="https://twitter.com/PrismK12/status/601084777643540480">May 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -42,7 +45,7 @@ In this brainstorming example you can see that brainstorming participants are in
 </ol>
 
 
-##Examples of how a brainstorming document might look
+##Examples of how your brainstorming document might look
 
 Brainstorming is an inherently creative process. Feel free to get your ideas out in the way that works best for you and your team. Here are some examples:
 
@@ -61,18 +64,17 @@ As you can see in the image above, brainstorming could take the form of writing 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">There’s a major brainstorming session underway at M A C K E E N E. <a href="https://twitter.com/hashtag/WorkspaceWednesday?src=hash">#WorkspaceWednesday</a> photo via <a href="https://twitter.com/MACKEENE_">@MACKEENE_</a> <a href="http://t.co/4hgfNeuRMJ">pic.twitter.com/4hgfNeuRMJ</a></p>&mdash; PANTONE (@pantone) <a href="https://twitter.com/pantone/status/598516952278118401">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Sometimes brainstorming can be messy and that's ok. In the image above, you can see that this designer has spread out tons of Pantone colors to aid in his creative process. If your brainstorming session gets messy, that's fine---just remember to clean up your mess.
+Sometimes brainstorming can be messy and that's ok. In the image above, the designer has spread out tons of Pantone colors to aid in his creative process. If your brainstorming session gets messy, that's fine---just remember to clean up afterwards. 
 <br>
-
 
 ##How to select your best ideas from your brainstorm
 
-During the brainstorm you weren't judging the ideas, right? Well, now it's time to let all of that judgment out. After an effective brainstorm you will have tons of ideas---some of them will inevitably be more interesting than others. Now, you'll need to discuss your ideas with your team. Here are some guidelines to facilitate that process:
+During the brainstorm you weren't judging the ideas, right? Well, now it's time to let all of that judgment out. After an effective brainstorm you will have tons of ideas and some of them will inevitably be more interesting than others. Now, you'll need to discuss your ideas with your team. Here are some guidelines to facilitate that process:
 
 <ol>
 	<li> Explain your ideas succinctly and in an easily digestible manner. It's important for your team to understand your concepts </li>
 	<li> Listen attentively to others. It's important for you to understand your teammates' ideas, too! </li>
-	<li> Speak in turn. Don't interrupt others when they're explaining their ideas. The same applies vice/vera. If someone interrupts you, politely let them know that you're not finished and continue.</li>
+	<li> Speak in turn. Don't interrupt others when they're explaining their ideas. The same applies vice vera. If someone interrupts you, politely let them know that you're not finished and continue.</li>
 	<li>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming character traits with <a href="https://twitter.com/ChichesterFYT">@ChichesterFYT</a> puppeteers for the animals in <a href="https://twitter.com/hashtag/RunningWild?src=hash">#RunningWild</a> <a href="https://twitter.com/ChichesterFT">@ChichesterFT</a> <a href="http://t.co/O7eimRIcOF">pic.twitter.com/O7eimRIcOF</a></p>&mdash; Gyre &amp; Gimble (@GyrAndGmbl) <a href="https://twitter.com/GyrAndGmbl/status/602891693139095552">May 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
