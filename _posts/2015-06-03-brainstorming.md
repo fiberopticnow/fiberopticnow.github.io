@@ -102,7 +102,7 @@ You don't always have to sit down during brainstorming sessions. Brainstorming c
 
 Check out the <a href="https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf">Stanford d.School</a> resource on brainstorming.
 
-{% include image.html url="/media/coolcatbrainstorming.png" width="100%" description="Cool Cat Teacher's 3 Step Brainstorming Process" %}
+{% include image.html url="/media/coolcatbrainstorming.png" width="70%" description="Cool Cat Teacher's 3 Step Brainstorming Process" %}
 
 Cool Cat Teacher, Vicky Davis, also has an awesome resource on a 3-step brainstorming process. Check it out <a href="http://www.coolcatteacher.com/3-step-collaborative-brainstorming-process-tools-tips">here!</a> 
 
