@@ -46,19 +46,19 @@ First of all, I'd love to highlight the work by one student business, <a href="h
 
 {% include image.html url="/media/deerdeer2.png" width="60%" description="The Deer Dear team used Facebook as a way to get feedback from their customers on new design ideas" %}
 
-## The Prank Maker
+<h2>The Prank Maker</h2>
 
 <a href="http://www.isa.nl/StudentSites/rmuramatsu/home.html">The Prank Maker</a> is an agency that organizes pranks and flash mobs at the International School of Amsterdam. Rika did a fantastic job coding this agency's website. The team page is especially current and uses animated GIFs to show the team members in a fun and unique way.
 
 {% include image.html url="/media/rika.gif" width="70%" description="Rika's Team Page is killer" %}
 
-{% include image.html url="/media/rika_mobile.png" width="70%" description="And the website is also responsive" %}
+{% include image.html url="/media/rika_mobile.png" width="50%" description="And the website is also responsive" %}
 
-One member of this group, Youngjae, produced a really amazing song to be used at the agency's various flash mobs. Listen to his song below and feel free to comment to give him feedback.
+One member of this group, Youngjae, produced a really awe-inspiring song to be used at the agency's various flash mobs. Listen to his song below and feel free to comment to give him feedback.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/208929085&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-##Akalah Loke
+<h2>Akalah Loke</h2>
 
 <a href="http://www.isa.nl/StudentSites/vdecuypere/Ourproducts.html"> Akalah Loke</a> is a non-profit founded to support an ISA teacher recently diagnosed with breast cancer. Akalah Loke means "pink flower" in Hawaiian, which is where this teacher called home. The Akalah Loke team created and sold pink flower headbands in order to raise awareness for breast cancer.
 
@@ -67,7 +67,7 @@ One member of this group, Youngjae, produced a really amazing song to be used at
 The flower crowns were a huge hit, as you can see in this Flipgram, which was created as part of Akalah Loke's marketing efforts:
 <iframe height="560" width="560" frameborder="0" src="http://flipagram.com/f/X0U3wA6lXK/embed" ></iframe>
 
-##Stick-It
+<h2>Stick-It</h2>
 
 <a href="http://www.isa.nl/StudentSites/asousabispo/Main%20Page.html"> Stick-It </a> is a sticker company that designs hip circular stickers in a variety of styles.
 
@@ -77,20 +77,20 @@ The flower crowns were a huge hit, as you can see in this Flipgram, which was cr
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
-##Artificial Chaos
+<h2>Artificial Chaos</h2>
 
 <a href="http://www.isa.nl/StudentSites/eperets/">Artificial Chaos</a> is a musical group that creates EDM style music. The Artificial Chaos team worked incredibly well together to create a very cohesive brand. Their digital assets included an album cover, digital song, website, t-shirts and promo posters.
 
 Check out RJ's amazing EDM song below and feel free to leave him some comments:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/209489544&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-##The Pizza Box Company
+</h2>The Pizza Box Company</h2>
 
 <a href="http://www.isa.nl/StudentSites/pizzabox/">The Pizza Box Company</a> is a business that specializes in creating custom pizza boxes for a variety of occasions. The Pizza Box Company's team created custom pizzas, product packaging, social media pages, a website and a promotional video. Check out the video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OeI1veR9hSk" frameborder="0" allowfullscreen></iframe>
 
-##Secret Scents
+<h2>Secret Scents</h2>
 
 <a href="http://www.isa.nl/StudentSites/erees/">Secret Scents</a> is a specialty company that manufactures scented sachets to perfume one's interior spaces. The Secret Scents brand maintained a variety of very active social media channels, in addition to creating custom product packaging.
 
@@ -105,7 +105,7 @@ And, don't forget to check out the Secret Scents website, which was created by E
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
-##Kotton graphics
+<h2>Kotton graphics</h2>
 
 <a href="http://www.isa.nl/StudentSites/gdemendoncagomes/WebsitePages/KPGWebsite.html">Kotton Graphics</a> is a t-shirt design company that creates custom t-shirts upon request. The Kotton Graphics team made some truly unique t-shirts, as you can see in the example below:
 
@@ -113,7 +113,7 @@ And, don't forget to check out the Secret Scents website, which was created by E
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/3v7EMzl-nK/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top" blah="blah_>I have the coolest students Part IV, #bae #fastfood #mcdonalds #design</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Katie Williams (@fiberopticnow) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-06-10T12:34:08+00:00">Jun 10, 2015 at 5:34am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
-##Tibsey Training
+<h2>Tibsey Training</h2>
 
 <a href="http://www.isa.nl/StudentSites/bdeboer/">Tibsey Training</a> is a dog-training company that raises money and awareness for local shelters. The Tibsey Training team created an array of digital promotional materials for their company. However, I was the most impressed with their website, which was one of the only responsive site in the entire grade level.
 
