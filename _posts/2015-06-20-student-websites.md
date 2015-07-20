@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: "8th Graders Create Their Own Startups"
 image: /media/FBsticker.jpg
 dark: true
 video: false
-
 
 ---
 
