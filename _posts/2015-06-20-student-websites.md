@@ -23,7 +23,7 @@ In this design challenge, students worked in groups of 4-5. Each team member cho
 > It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
 
 
-#Example Student Projects
+#Student Projects
 
 ##LAV Cards
 
@@ -32,6 +32,8 @@ First of all, I'd love to highlight the work by one student business, <a href="h
 {% include image.html url="/media/mikina.gif" width="70%" description="Mikina's amazing work on the LAV Cards website" %}
 
 {% include image.html url="/media/lavbox.gif" width="50%" description="A really clever animated product packaging by Balazs" %}
+
+<br>
 
 ##Dear Deer
 
