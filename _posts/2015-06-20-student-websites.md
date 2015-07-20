@@ -76,27 +76,39 @@ The flower crowns were a huge hit, as you can see in this Flipgram, which was cr
 
 ##Artificial Chaos
 
+<a href="http://www.isa.nl/StudentSites/eperets/">Artificial Chaos</a> is a musical group that creates EDM style music. The Artificial Chaos team worked incredibly well together to create a very cohesive brand. Their digital assets included an album cover, digital song, website, t-shirts and promo posters.
 
-http://www.isa.nl/StudentSites/eperets/
-
+Check out RJ's amazing EDM song below and feel free to leave him some comments:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/209489544&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-RJ's song: https://soundcloud.com/rj-hewins/artificial-chaos-debut
+##The Pizza Box Company
 
-http://www.isa.nl/StudentSites/pizzabox/
+<a href="http://www.isa.nl/StudentSites/pizzabox/">The Pizza Box Company</a> is a business that specializes in creating custom pizza boxes for a variety of occasions. The Pizza Box Company's team created custom pizzas, product packaging, social media pages, a website and a promotional video. Check out the video below:
 
-http://www.isa.nl/StudentSites/erees/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OeI1veR9hSk" frameborder="0" allowfullscreen></iframe>
 
+##Secret Scents
+
+<a href="http://www.isa.nl/StudentSites/erees/">Secret Scents</a> is a specialty company that manufactures scented sachets to perfume one's interior spaces. The Secret Scents brand maintained a variety of very active social media channels, in addition to creating custom product packaging.
+
+Check out a really amazing animated GIF by Chris, which is featured on the Secret Scents homepage.
+
+{% include image.html url="/media/chris.gif" width="70%" description="And the website is also responsive" %}
+
+And, don't forget to check out the Secret Scents website, which was created by Erik.
+
+<div class="width:60%">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/3OCGUauZwR/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Erik our web developer working hard!😀 #SecretScents</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by S E C R E T S C E N T S✨ (@secretscents_) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-28T08:41:24+00:00">May 28, 2015 at 1:41am PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/3dgTmuuZ00/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Everyone working very hard for our new release!🏁</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by S E C R E T S C E N T S✨ (@secretscents_) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-06-03T08:53:58+00:00">Jun 3, 2015 at 1:53am PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+##Kotton graphics
 
-http://www.isa.nl/StudentSites/gdemendoncagomes/WebsitePages/KPGWebsite.html
+<a href="http://www.isa.nl/StudentSites/gdemendoncagomes/WebsitePages/KPGWebsite.html">Kotton Graphics</a> is a t-shirt design company that creates custom t-shirts upon request. The Kotton Graphics team made some truly unique t-shirts, as you can see in the example below:
 
-http://www.isa.nl/StudentSites/okravchenko/
-
+<div style="width:60%">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/3v7EMzl-nK/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top" blah="blah_>I have the coolest students Part IV, #bae #fastfood #mcdonalds #design</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Katie Williams (@fiberopticnow) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-06-10T12:34:08+00:00">Jun 10, 2015 at 5:34am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
 
 ##Tibsey Training
 
@@ -105,3 +117,14 @@ http://www.isa.nl/StudentSites/okravchenko/
 {% include image.html url="/media/tibsey.png" width="70%" description="Kudos to Brooke for this responsive website" %}
 
 {% include image.html url="/media/tibseymobile.png" width="50%" description="As you can see, it looks great on mobile, too!" %}
+
+#How to organize students as startups
+
+##Brainstorming
+As you can see, the projects from this design challenge were incredibly diverse. We had everything from perfume companies to dog training agencies---what a great unit! If you're wondering how they came up with these awesome ideas, I urge you to check out my post on <a href="http://fiberopticnow.github.io/blog/brainstorming/">conducting effective brainstorming sessions.</a> In our brainstorming session, student teams came up with at least 50 ideas per team. We didn't judge the ideas, but rather praised really off-the-wall ideas and out-of-the-box thinking. If you're interested in doing a similar project in your classroom, I highly encourage you to let students choose the topic for their company through a brainstorming process.
+
+##The teacher as a mentor
+I'm really a huge fan of <a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en">Dr. Sugata Mitra's work on the topic of self-directed learning</a> and I formed this design challenge in that spirit. For this project I really didn't offer many lectures. Most of my presentation time was spent explaining how to format their design documentation, which is required by the IB program. Otherwise, you would typically find me floating from team to team offering ideas and support. I created the open space laden with high expectations. I then continuously coached students and offered, "What if" questions to them when they were stuck. I also brought in a professional web developer near the end of the project to answer any lingering questions that the web development students had after completing <a href="http://www.codecademy.com">Codecademy</a> and <a href="https://dash.generalassemb.ly/">GA Dash programs.</a> In fact, I spent far less time showing these students how to code or debug and much more time helping them to get started and stay focused and motivated on these programs. 
+
+##Teamwork
+It's equally important to ensure that each student has an independent role within the team. Most teams had at least a web developer, social media manager and graphic designer. Other teams also had product managers and some even included videographers and digital music producers. This not only made grading more fair and efficient, but it also made the day to day operations run more smoothly. Each student knew which part of the puzzle they were responsible for and I was proud to see the students holding each other accountable for those digital media assets. It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
