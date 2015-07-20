@@ -16,11 +16,11 @@ video: false
 
 </em>
 
-> quote test
-
 ## The Design Challenge
 
-In this design challenge, students worked in groups of 4-5. Each team member chose their role on the team such as web developer, graphic designer, social media manager, videographer, digital music producer, or product manager. Students then worked together to create a unified brand that could be displayed on their website. Because each team member was responsible for their own part of the overarching project, this eliminated the possibility of group carry. Allowing students to work in teams as part of a business or non-profit that they created also allowed them to work together creatively and collaboratively. Check out how different each group project turned out in the examples below:
+In this design challenge, students worked in groups of 4-5. Each team member chose their role on the team such as web developer, graphic designer, social media manager, videographer, digital music producer, or product manager. Students then worked together to create a unified brand that could be displayed on their website. Because each team member was responsible for their own part of the overarching project, this eliminated the possibility of group carry. Allowing students to work in teams as part of a business or non-profit that they created also allowed them to work together creatively and collaboratively.
+
+> It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
 
 
 #Example Student Projects
@@ -129,3 +129,5 @@ I'm really a huge fan of <a href="https://www.ted.com/talks/sugata_mitra_build_a
 
 ##Teamwork
 It's equally important to ensure that each student has an independent role within the team. Most teams had at least a web developer, social media manager and graphic designer. Other teams also had product managers and some even included videographers and digital music producers. This not only made grading more fair and efficient, but it also made the day to day operations run more smoothly. Each student knew which part of the puzzle they were responsible for and I was proud to see the students holding each other accountable for those digital media assets. It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
+
+> It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
