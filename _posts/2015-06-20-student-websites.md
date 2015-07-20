@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "8th Graders Create Their Own Startups"
-image: /media/FBsticker.jpg
+title: "Middle School Students Create Their Own Startups"
+image: /media/startup.jpg
 dark: true
 video: false
 
@@ -28,7 +28,7 @@ In this design challenge, students worked in groups of 4-5. Each team member cho
 
 First of all, I'd love to highlight the work by one student business, <a href="http://www.isa.nl/StudentSites/mtanaka/LAVcards.html">LAV cards</a>. LAV cards was a greeting card company that designed environmentally friendly cards for various occasions. I was especially impressed with LAV Card's use of animated gifs. Not only was the logo on their website an animated gif, but the product design was also shown as a 3D mockup as an animated GIF. This was a really clever way to use what we learned in our <a href="http://fiberopticnow.github.io/digital-design">first unit on GIFs</a> in this new project.
 
-{% include image.html url="/media/mikina.gif" width="70%" description="Mikina's amazing work on the LAV Cards website" %}
+{% include image.html url="/media/mikina.gif" width="50%" description="Mikina's amazing work on the LAV Cards website" %}
 
 {% include image.html url="/media/lavbox.gif" width="70%" description="A really clever animated product packaging by Balazs" %}
 
