@@ -131,3 +131,6 @@ I'm really a huge fan of <a href="https://www.ted.com/talks/sugata_mitra_build_a
 It's equally important to ensure that each student has an independent role within the team. Most teams had at least a web developer, social media manager and graphic designer. Other teams also had product managers and some even included videographers and digital music producers. This not only made grading more fair and efficient, but it also made the day to day operations run more smoothly. Each student knew which part of the puzzle they were responsible for and I was proud to see the students holding each other accountable for those digital media assets. It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
 
 > It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
+
+##Let us know what you think!
+We'd love to hear your comments and feedback on this unit. Also, if you're a teacher or workshop facilitator who is thinking about doing a unit in which students create their own startups, feel free to ask any questions below:
