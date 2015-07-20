@@ -35,7 +35,7 @@ First of all, I'd love to highlight the work by one student business, <a href="h
 
 <br>
 
-##Dear Deer
+<h2>Dear Deer</h2>
 
 <a href="http://deardeerofficial.tumblr.com">Deer Dear</a> is a custom t-shirt company that creates unique tye-dye t-shirts featuring truly hilarious puns. This team had a really cohesive brand with an active Facebook account featuring a variety of promotional videos. I was very impressed with this team's contagious creativity, as well as their really wearable and stylish t-shirts. Check out the t-shirts below:
 
