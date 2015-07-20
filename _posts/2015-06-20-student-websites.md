@@ -16,6 +16,7 @@ video: false
 
 </em>
 
+> quote test
 
 ## The Design Challenge
 
@@ -49,7 +50,7 @@ First of all, I'd love to highlight the work by one student business, <a href="h
 
 {% include image.html url="/media/rika.gif" width="70%" description="Rika's Team Page is killer" %}
 
-{% include image.html url="/media/rikamobile.png" width="70%" description="And the website is also responsive" %}
+{% include image.html url="/media/rika_mobile.png" width="70%" description="And the website is also responsive" %}
 
 One member of this group, Youngjae, produced a really amazing song to be used at the agency's various flash mobs. Listen to his song below and feel free to comment to give him feedback.
 
@@ -124,7 +125,7 @@ And, don't forget to check out the Secret Scents website, which was created by E
 As you can see, the projects from this design challenge were incredibly diverse. We had everything from perfume companies to dog training agencies---what a great unit! If you're wondering how they came up with these awesome ideas, I urge you to check out my post on <a href="http://fiberopticnow.github.io/blog/brainstorming/">conducting effective brainstorming sessions.</a> In our brainstorming session, student teams came up with at least 50 ideas per team. We didn't judge the ideas, but rather praised really off-the-wall ideas and out-of-the-box thinking. If you're interested in doing a similar project in your classroom, I highly encourage you to let students choose the topic for their company through a brainstorming process.
 
 ##The teacher as a mentor
-I'm really a huge fan of <a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en">Dr. Sugata Mitra's work on the topic of self-directed learning</a> and I formed this design challenge in that spirit. For this project I really didn't offer many lectures. Most of my presentation time was spent explaining how to format their design documentation, which is required by the IB program. Otherwise, you would typically find me floating from team to team offering ideas and support. I created the open space laden with high expectations. I then continuously coached students and offered, "What if" questions to them when they were stuck. I also brought in a professional web developer near the end of the project to answer any lingering questions that the web development students had after completing <a href="http://www.codecademy.com">Codecademy</a> and <a href="https://dash.generalassemb.ly/">GA Dash programs.</a> In fact, I spent far less time showing these students how to code or debug and much more time helping them to get started and stay focused and motivated on these programs. 
+I'm really a huge fan of <a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en">Dr. Sugata Mitra's work on the topic of self-directed learning</a> and I formed this design challenge in that spirit. For this project I really didn't offer many lectures. Most of my presentation time was spent explaining how to format their design documentation, which is required by the IB program. Otherwise, you would typically find me floating from team to team offering ideas and support. I created the open space laden with high expectations. I then continuously coached students and offered, "What if" questions to them when they were stuck. I also brought in a professional web developer near the end of the project to answer any lingering questions that the web development students had after completing <a href="http://www.codecademy.com">Codecademy</a> and <a href="https://dash.generalassemb.ly/">GA Dash programs.</a> In fact, I spent far less time showing these students how to code or debug and much more time helping them to get started and stay focused and motivated on these programs.
 
 ##Teamwork
 It's equally important to ensure that each student has an independent role within the team. Most teams had at least a web developer, social media manager and graphic designer. Other teams also had product managers and some even included videographers and digital music producers. This not only made grading more fair and efficient, but it also made the day to day operations run more smoothly. Each student knew which part of the puzzle they were responsible for and I was proud to see the students holding each other accountable for those digital media assets. It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
