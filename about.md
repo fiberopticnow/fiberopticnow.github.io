@@ -25,7 +25,7 @@ I'm a pretty high-energy individual and really can't stand sitting still. I alwa
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
-In my free time I enjoy doodling, interpretive dancing, and cuddling fat cats. I often miss the sound of the ocean, and can sometimes be found encouraging my workshop participants to do the wave.
+In my free time I enjoy doodling, interpretive dancing and cuddling the occasional fat cat. I often miss the sound of the ocean and thus can oftentimes be found encouraging my workshop participants to do the wave.
 
 <div style="width:60%">
 <iframe src="https://vine.co/v/hOxr0BL35Ju/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
@@ -33,7 +33,7 @@ In my free time I enjoy doodling, interpretive dancing, and cuddling fat cats. I
 
 ###What does the term "Fiber Optic Now" mean?
 
-Contrary to popular belief, I'm not dealing in fiber optic cables despite my passion for technology. The story of this phrase actually began when I was 16 and a telemarketer at a summer job. Telemarketing is in general a very tedious position, yet on one particular evening I got an interesting surprise. The telemarketing software dialed a random number for me, but no one answered. Instead, I listened intently to an answering machine recording with one of the most poignant and well-performed slam poems I've ever heard.
+Contrary to popular belief, I'm not dealing in fiber optic cables. The story of this phrase actually began when I was 16 and a telemarketer at a summer job. Telemarketing is in general a very tedious position, yet on one particular evening I got an interesting surprise. The telemarketing software dialed a random number for me, but no one answered. Instead, I listened intently to an answering machine recording with one of the most poignant and well-performed slam poems I've ever heard.
 
 The only line I can recall after so many years is fiber optic now. The poem in general dealt with the fleeting nature of reality and the power of the moment. Unfortunately, the telemarketing software didn't allow for call-backs. Thus, ever since that fateful evening I've been left with the mystery of it all. And no, Google searches have yet to turn anything up. Perhaps it wasn't a well-known poem, but rather the train of thought ramblings of a lyrical genius. Will I ever know? Or will I instead carry on the memory of this fleeting moment through an online moniker that represents the fleeting nature of all moments?
 
