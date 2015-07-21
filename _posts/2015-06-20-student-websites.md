@@ -67,7 +67,10 @@ Another member of this group, Youngjae, produced a really awe-inspiring song to 
 {% include image.html url="/media/victorine.png" width="80%" description="Victorine designed a really sleek website for the non-profit" %}
 
 The flower crowns were a huge hit, as you can see in this Flipgram, which was created as part of Akalah Loke's marketing efforts:
+
+<div style="width:60%">
 <iframe height="560" width="560" frameborder="0" src="http://flipagram.com/f/X0U3wA6lXK/embed" ></iframe>
+</div>
 
 <h2>Stick-It</h2>
 
