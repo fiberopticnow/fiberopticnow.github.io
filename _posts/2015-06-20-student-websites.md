@@ -27,7 +27,7 @@ In this design challenge, students worked in groups of 4-5. Each team member cho
 
 ##LAV Cards
 
-First of all, I'd love to highlight the work by one student business, <a href="http://www.isa.nl/StudentSites/mtanaka/LAVcards.html">LAV cards</a>, which is a greeting card company that designs environmentally-friendly cards for various occasions. The LAV Card team chose to use animated gifs in some really clever ways on their website. Not only was the logo on their website an animated gif, but the product design was also shown as a 3D mockup as an animated GIF. This was such a cool way to use what we learned in our <a href="http://fiberopticnow.github.io/digital-design">first unit on GIFs</a> in this new project.
+First of all, I'd love to highlight the work by one student business, <a href="http://www.isa.nl/StudentSites/mtanaka/LAVcards.html">LAV cards</a>, which is a greeting card company that designs environmentally-friendly cards for various occasions. The LAV Card team chose to use animated gifs in some really clever ways on their website. Not only was the logo on their website an animated gif, but the product design mockup was also shown as a 3D animation. This was such a cool way to use what we learned in our <a href="http://fiberopticnow.github.io/digital-design">first unit on GIFs</a> in this new project.
 
 {% include image.html url="/media/mikina.gif" width="70%" description="Mikina's amazing work on the  website" %}
 
