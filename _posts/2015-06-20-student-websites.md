@@ -139,6 +139,13 @@ The Kotton Graphics design team also made a variety of truly unique t-shirts, as
 
 {% include image.html url="/media/tibseymobile.png" width="50%" description="As you can see, it looks great on mobile, too!" %}
 
+<h2>Don't Wrong the Dugong</h2>
+
+Many of you may not know what exactly a dugong is and that's exactly the slant this team took on their branding, as a non-profit dedicated to raising awareness about this endangered animal. This team really thought outside of the box and decided to create a to-scale dugong to place in the school. Check out their massive poster below:
+
+{% include image.html url="/media/dugong.png" width="70%" description="Turns out a dugong is an Australian manatee" %}
+
+
 #How to organize students as startups
 
 ##Brainstorming
