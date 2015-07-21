@@ -100,7 +100,9 @@ Check out RJ's amazing EDM song below and feel free to leave him some comments:
 
 {% include image.html url="/media/pizzabox.png" width="80%" description="Valentina was super self-directed with this project and taught herself to code this website using Codecademy" %}
 
-Check out the team's really well scripted promotional video, too:
+{% include image.html url="/media/pizzapic.png" width="70%" description="This team also actually baked custom pizzas" %}
+
+Check out The Pizza Company's really well scripted promotional video, too:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OeI1veR9hSk" frameborder="0" allowfullscreen></iframe>
 
