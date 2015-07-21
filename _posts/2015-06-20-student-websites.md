@@ -162,4 +162,4 @@ It's equally important to ensure that each student has an independent role withi
 > It wasn't uncommon to hear the web developers pleading with the graphic designers to, "Put the logo in the Dropbox!" Now, if that isn't the real startup experience, I don't know what is.
 
 ##Let us know what you think!
-We'd love to hear your comments and feedback on this unit. Also, if you're a teacher or workshop facilitator who is thinking about doing a unit in which students create their own startups, feel free to ask any questions below:
+We'd love to hear your comments and feedback on this unit. Also, if you're a teacher or workshop facilitator who is thinking about doing a unit in which students create their own startups, feel free to ask any questions below! 
