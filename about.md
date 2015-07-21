@@ -14,7 +14,9 @@ title: Fiber Optic What?
 
 Thanks for visiting my blog! I'm an American digital marketing consultant who has spent the last several years working abroad in China, Thailand and the Netherlands. I'm currently technomading, which means that I'm freelancing and traveling the world.
 
-Most of my blog posts here relate to my work as a digital design teacher at the International School of Amsterdam, as well as my work as an independent marketing consultant. If you'd like to learn more about my professional experience, please visit my <a href="https://th.linkedin.com/in/fiberopticnow">LinkedIn profile.</a>
+Most of my blog posts here relate to my work as a digital design teacher at the International School of Amsterdam, as well as my work as an independent marketing consultant.<br>
+
+ If you'd like to learn more about my professional experience, please visit my <a href="https://th.linkedin.com/in/fiberopticnow">LinkedIn profile.</a><br>
 
 I'm a pretty high-energy individual and really can't stand sitting still. I always have to have my hands in a variety of projects to stay motivated. While in Amsterdam I started up <a href="http://www.codingandcocktails.nl"> Coding and Cocktails </a>, which is a workshop for code newbies to build a landing page while also networking and making new professional contacts. I also organized over 40 workshops for kids in Dutch public schools with my other project <a href="https://vimeo.com/100313404">RISE OF //CODE.</a>
 
@@ -33,6 +35,6 @@ In my free time I enjoy doodling, interpretive dancing, and cuddling fat cats. I
 
 Contrary to popular belief, I'm not dealing in fiber optic cables despite my passion for technology. The story of this phrase actually began when I was 16 and a telemarketer at a summer job. Telemarketing is in general a very tedious position, yet on one particular evening I got an interesting surprise. The telemarketing software dialed a random number for me, but no one answered. Instead, I listened intently to an answering machine recording with one of the most poignant and well-performed slam poems I've ever heard.
 
-The only line I can recall after so many years is fiber optic now. The poem in general dealt with the fleeting nature of reality and the power of the moment. Unfortunately, the telemarketing software didn't allow for call-backs. Thus, ever since that fateful evening I've been left with the mystery of it all. And no, Google searches have yet to turn anything up. Perhaps it wasn't a well-known poem, but rather the train of thought ramblings of a lyrical genius. Will I ever know? Or will I instead carry on the memory of this fleeting moment through an online moniker that represents the fleeting nature of all moments? 
+The only line I can recall after so many years is fiber optic now. The poem in general dealt with the fleeting nature of reality and the power of the moment. Unfortunately, the telemarketing software didn't allow for call-backs. Thus, ever since that fateful evening I've been left with the mystery of it all. And no, Google searches have yet to turn anything up. Perhaps it wasn't a well-known poem, but rather the train of thought ramblings of a lyrical genius. Will I ever know? Or will I instead carry on the memory of this fleeting moment through an online moniker that represents the fleeting nature of all moments?
 
 If you have any clues to the mystery of this phrase, please don't hesitate to reach out. Bonus points if you're the author of the poem, or the owner of the answering machine from 2003!
