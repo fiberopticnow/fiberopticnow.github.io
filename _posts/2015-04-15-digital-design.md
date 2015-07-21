@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Design Class: Students Create Animated Sticker Packs for Facebook Messenger"
+title: "Students Create Animated Sticker Packs for Facebook Messenger"
 image: /media/FBsticker.jpg
 dark: true
 video: false

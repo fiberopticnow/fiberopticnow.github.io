@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get Your Code On Podcast with Dr. Will"
+title: "Get Your Code On Podcast"
 image: /media/css_code.jpg
 dark: true
 video: false

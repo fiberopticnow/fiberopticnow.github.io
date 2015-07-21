@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to conduct an effective brainstorming session in your design technology class"
+title: "How To Conduct An Effective Brainstorming Session"
 image: /media/brainstorm.jpg
 dark: true
 video: false
@@ -70,7 +70,7 @@ Mindmapping is another great way to organize your brainstorm. There are tons of 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">There’s a major brainstorming session underway at M A C K E E N E. <a href="https://twitter.com/hashtag/WorkspaceWednesday?src=hash">#WorkspaceWednesday</a> photo via <a href="https://twitter.com/MACKEENE_">@MACKEENE_</a> <a href="http://t.co/4hgfNeuRMJ">pic.twitter.com/4hgfNeuRMJ</a></p>&mdash; PANTONE (@pantone) <a href="https://twitter.com/pantone/status/598516952278118401">May 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Sometimes brainstorming can be messy and that's ok. In the image above, the designer has spread out tons of Pantone colors to aid in his creative process. If your brainstorming session gets messy, that's fine---just remember to clean up afterwards. 
+Sometimes brainstorming can be messy and that's ok. In the image above, the designer has spread out tons of Pantone colors to aid in his creative process. If your brainstorming session gets messy, that's fine---just remember to clean up afterwards.
 <br>
 
 #How to select your best ideas from your brainstorm
@@ -86,7 +86,7 @@ During the brainstorm you weren't judging the ideas, right? Well, now it's time 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Brainstorming character traits with <a href="https://twitter.com/ChichesterFYT">@ChichesterFYT</a> puppeteers for the animals in <a href="https://twitter.com/hashtag/RunningWild?src=hash">#RunningWild</a> <a href="https://twitter.com/ChichesterFT">@ChichesterFT</a> <a href="http://t.co/O7eimRIcOF">pic.twitter.com/O7eimRIcOF</a></p>&mdash; Gyre &amp; Gimble (@GyrAndGmbl) <a href="https://twitter.com/GyrAndGmbl/status/602891693139095552">May 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 As you can see above, this student has taken his time to brainstorm a bunch of different ideas on two large sheets of paper. Now, he's going back over his ideas with a different colored pen, and highlighting his favorites. Don't limit yourself by choosing the easiest or most feasible ideas.It's important after a brainstorming session to narrow down your ideas to the most innovative and interesting ones. These will make the most interesting projects.
-<br> 
+<br>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Ok so I was brainstorming other logo options even though I do like the skull. I tried fam <a href="https://twitter.com/5SOS">@5SOS</a> <a href="https://twitter.com/hashtag/WeWantTheTallyBack?src=hash">#WeWantTheTallyBack</a> <a href="http://t.co/IwVLtWhxPa">pic.twitter.com/IwVLtWhxPa</a></p>&mdash; bea • 52 days (@beasknee) <a href="https://twitter.com/beasknee/status/597512318851764224">May 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -104,7 +104,7 @@ Check out the <a href="https://dschool.stanford.edu/wp-content/themes/dschool/me
 
 {% include image.html url="/media/dschoolbrainstorming.png" width="70%" description="Brainstorming Rules by the Stanford dSchool" %}
 
-Cool Cat Teacher, Vicky Davis, also has an awesome resource on a 3-step brainstorming process. Check it out <a href="http://www.coolcatteacher.com/3-step-collaborative-brainstorming-process-tools-tips">here!</a> 
+Cool Cat Teacher, Vicky Davis, also has an awesome resource on a 3-step brainstorming process. Check it out <a href="http://www.coolcatteacher.com/3-step-collaborative-brainstorming-process-tools-tips">here!</a>
 
 {% include image.html url="/media/coolcatbrainstorming.png" width="70%" description="Cool Cat Teacher's 3 Step Brainstorming Process" %}
 
@@ -112,4 +112,3 @@ Cool Cat Teacher, Vicky Davis, also has an awesome resource on a 3-step brainsto
 #How do you facilitate brainstorming sessions in your classes?
 
 Comment below to share your experiences with facilitating brainstorming sessions. I'd love to hear your ideas!
-
