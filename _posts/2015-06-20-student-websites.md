@@ -94,7 +94,7 @@ Check out RJ's amazing EDM song below and feel free to leave him some comments:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/209489544&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 </div>
 
-</h2>The Pizza Box Company</h2>
+<h2>The Pizza Box Company</h2>
 
 <a href="http://www.isa.nl/StudentSites/pizzabox/">The Pizza Box Company</a> is a business that specializes in creating custom pizza boxes for a variety of occasions. The Pizza Box Company's team created custom pizzas, product packaging, social media pages, a website and a promotional video.
 
