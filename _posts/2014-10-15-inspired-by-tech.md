@@ -11,20 +11,20 @@ video: false
 <em>This week is Code Week EU, and schools, and organizations across Europe are now hosting events to get more people interested in coding. I organized an event at the International School of Amsterdam with lightening talks from Amsterdam's coolest programmers, marketeers, graphic designers, and more! </em>
 
 
-## Get inspired by tech
+<h2>Get inspired by tech</h2>
 
 Code Week EU events are hosted in schools all across Europe during the week of October 13-17. I knew I wanted to host an event at the International School of Amsterdam, but wanted to make sure that the 6th grade students understood the big picture before diving into actual coding. Thus, I invited mentors from all different branches of tech to come and give short lightening talks to the students. Our 100 6th graders were split into small groups of 7, which rotated every 10 minutes to a new table, and a new mentor. The purpose of our Code Week EU event was to get kids inspired by tech by passionate people, and we definitely achieved our goal! Students were engaged, and enthralled by presentations ranging from online security, to advertising.
 
 
 {% include image.html url="/media/codeweekposter.jpg" width="100%" description="Poster for EU Code Week by the amazing <a href='http://www.twitter.com/byWFG'>Wouter Goedkoop</a>" %}
 
-##Lightening Talks By Tech Mentors
+<h2>Lightening Talks By Tech Mentors</h2>
 
 An astonishing 14 mentors volunteered at this event who spoke on the topics of graphic design, social media, marketing, business development, programming, hardware, online security, and entrepreneurship.
 
 Speakers included <a href="http://www.twitter.com/jruis">Jorg Ruis</a>, CMO of MessageBird, Eleonora Spagnuolo, a freelance graphic designer, <a href="http://www.twitter.com/hetdigilab">Cobie van de Ven </a> of iCoach, <a href="http://www.twitter.com/geetkhosla">Geet Khosla</a>, Co-Founder of Palms World and Perspektive Crossmedia, <a href="http://www.twitter.com/jetjeb">Mariette van den Bogaard-Braaf</a> a customer service expert, Nienke Koorn of WeTransfer, <a href="http://www.twitter.com/JohannaAdamson">Johanna Adamson</a>, Lead Business Analyst of Rabobank, Deborah Carter, Founder of the Kids Technology Institute of Amsterdam, <a href="http://www.twitter.com/riichard"> Richard Kraaijenhagen</a>, Founder of Owlin, <a href="http://www.twitter.com/mintsource"> Dan Roden </a> Senior Freelance Developer, <a href="http://www.twitter.com/anoukvisser">Anouk Visser</a>, Computer Vision Engineer, <a href="http://www.twitter.com/alvinteresting">Alvin de Groot</a>, Social Media Creative for Boomerang Create, as well as Wouter Goudkoop, Lead Graphic Designer at the International School of Amsterdam, and Erika Harriford-McLaren, Head of Communications at the International School of Amsterdam.  
 
-###How did it work?
+<h2>How did it work?</h2>
 
 Are you thinking of doing a similar event at your school? Here's how I made it happen:
 
@@ -34,7 +34,7 @@ Each tech mentor was asked to prepare a 5-minute lightening talk with accompanyi
 
 The students were super engaged throughout the event, and we didn't have a single behavioral disruption. This just goes to show that bringing in speakers, and mentors from the community can be a very powerful experience for kids!
 
-####Photos from the event
+<h2>Photos from the event</h2>
 
 Below you'll see all of our mentors, as well as <a href="http://www.twitter.com/fiberopticnow">yours truly</a>.
 
